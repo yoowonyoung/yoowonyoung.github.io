@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://yoowonyoung.github.io/devlopr-starter/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yoowonyoung.github.io/devlopr-starter/" rel="alternate" type="text/html" /><updated>2020-01-28T15:22:27+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/feed.xml</id><title type="html">Wonyoung yoo</title><subtitle>Software Engineer and Amateur Photographer</subtitle><author><name>Wonyoung yoo</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-11T19:30:12+00:00</published><updated>2020-01-11T19:30:12+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/welcome-to-jekyll</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Second Post !</title><link href="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/second-post/" rel="alternate" type="text/html" title="Second Post !" /><published>2020-01-11T19:30:12+00:00</published><updated>2020-01-11T19:30:12+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/second-post</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/second-post/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Third Post !</title><link href="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/third-post/" rel="alternate" type="text/html" title="Third Post !" /><published>2020-01-11T19:30:12+00:00</published><updated>2020-01-11T19:30:12+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/third-post</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/third-post/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Fourth Post</title><link href="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/fourth-post/" rel="alternate" type="text/html" title="Fourth Post" /><published>2020-01-11T19:30:12+00:00</published><updated>2020-01-11T19:30:12+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/fourth-post</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/fourth-post/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Fifth Post !</title><link href="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/fifth-post/" rel="alternate" type="text/html" title="Fifth Post !" /><published>2020-01-11T19:30:12+00:00</published><updated>2020-01-11T19:30:12+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/fifth-post</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/fifth-post/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Sixth Post</title><link href="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/sixth-post/" rel="alternate" type="text/html" title="Sixth Post" /><published>2020-01-11T19:30:12+00:00</published><updated>2020-01-11T19:30:12+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/sixth-post</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/sixth-post/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Seventh Post</title><link href="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/seventh-post/" rel="alternate" type="text/html" title="Seventh Post" /><published>2020-01-11T19:30:12+00:00</published><updated>2020-01-11T19:30:12+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/seventh-post</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/jekyll/2020/01/11/seventh-post/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Kotlin Study - 10 애노테이션과 리플렉션 -2</title><link href="https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/22/Kotlin-19/" rel="alternate" type="text/html" title="Kotlin Study - 10 애노테이션과 리플렉션 -2" /><published>2019-09-22T21:10:00+00:00</published><updated>2019-09-22T21:10:00+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/22/Kotlin-19</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/22/Kotlin-19/">&lt;h1 id=&quot;애노테이션과-리플렉션&quot;&gt;애노테이션과 리플렉션&lt;/h1&gt;
+
+&lt;h2 id=&quot;리플렉션-실행-시점에-코틀린-객체-내부-관찰&quot;&gt;리플렉션: 실행 시점에 코틀린 객체 내부 관찰&lt;/h2&gt;
+
+&lt;h3 id=&quot;코틀린-리플렉션-api-kclass-kcallable-kfunction-kproperty&quot;&gt;코틀린 리플렉션 API: KClass, KCallable, KFunction, KProperty&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;class Person(val name: String ,val age: Int)
+
+import kotlin.reflect.full.*
+val person = Person(&quot;Alice&quot;,29)
+val kClass = person.javaClass.kotlin
+println(kClass.simpleName)
+==&amp;gt; Person
+kclass.memberProperties.foreach{ println(it.name) }
+==&amp;gt; age
+==&amp;gt; name
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;KClass는 java.lang.Class에 해당하는 KClass를 사용하면 클래스 안에 있는 모든 선언을 열거 하고 각 선언에 접근하거나
+상위 클래스를 얻는 등의 작업이 가능 하다&lt;/li&gt;
+  &lt;li&gt;MyClass::class라는 식을 쓰면 KClass 인스턴스를 얻는게 가능 하며,
+실행 시점에 객체의 클래스를 얻으려면 먼저 javaClass(이는 java.lang.Object.getClass()와 같다)프로퍼티를 사용 후,
+.kotlin 확장 프로퍼티를 통해 자바에서 코틀린 리플렉션 API로 옮겨 와야 한다&lt;/li&gt;
+  &lt;li&gt;위 예제를 통해 클래스 이름과 그 클래스에 들어있는 프로퍼티 이름을 출력하며, memberProperties를 통해 모든 조상 클래스 내부에 정의된 비확장 프로퍼티를 가져온다&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;이때 simpleName은 KClass의 선언에 존재 하며, KClass는 이것 이외에도 클래스 내부를 살펴볼수있는 다양한 메소드가 있다&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;interface KClass&amp;lt;T : Any?&amp;gt; {
+  val simpleName: String?
+  val qualifiedName: String?
+  val members: Collection&amp;lt;KCallable&amp;lt;*&amp;gt;&amp;gt;
+  val constructors: Collection&amp;lt;KFuntion&amp;lt;T&amp;gt;&amp;gt;
+  val nestedClasses: Collection&amp;lt;KClass&amp;lt;*&amp;gt;&amp;gt;
+  ...
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;이때 클래스의 모든 멤버는 KCallable 인스턴스의 컬렉션으로, KCallable은 함수와 프로퍼티를 모두 아우르는 공통 상위 인터페이스 이다.&lt;/li&gt;
+  &lt;li&gt;KCallable 안의 call메소드를 사용 함으로써 함수나 프로퍼티의 게터를 호출 할 수 있다&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;call을 사용 할 때에는 함수 인자를 vararg 리스트로 전달하며, call을 활용해 함수를 호출 할 수있다&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;interface KCallable&amp;lt;out R&amp;gt; {
+  fun call(vararg args: Any?): R
+  ...
+}
+
+fun foo(x : Int) = println(x)
+val kFunction = ::foo
+kFunction.call(42)
+==&amp;gt; 42
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;이때 call에 넘긴 인자 개수와 원래 함수에 정의된 파라미터 개수가 맞아야 한다&lt;/li&gt;
+  &lt;li&gt;KFunctionN 인터페이스를 활용하면 N개의 파라미터를 가진 함수를 호출한다는 것을 명확히 할 수 있으며, KFunctionN는 invoke 메소드를 사용한다&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;kFunction1&amp;lt;Int, Unit&amp;gt; 은 파라미터가 1개(Int형) 이며 반환은 Unit형임을 의미한다&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;imort kotlin.reflect.KFunction2
+fun sum(x: Int, y: Int) = x + y
+val kFunction: KFunction2&amp;lt;Int, Int, Int&amp;gt; = ::sum
+println(kFunction.invoke(1,2) + kFucntion(3,4))
+==&amp;gt; 10
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;KFunction의 invoke 메소드를 호출할 떄에는 인자 개수나 타임이 맞지 않으면 컴파일이 되지 않는다&lt;/li&gt;
+  &lt;li&gt;invoke를 호출 하지 않고도 직접 호출도 가능하다&lt;/li&gt;
+  &lt;li&gt;KProperty 역시 call메소드를 호출 할 수 있으며, 이때 call은 프로퍼티의 getter를 호출 한다&lt;/li&gt;
+  &lt;li&gt;최상위 프로퍼티는 KProperty0 인터페이스의 인스턴스로 표현되며, KProperty0 안에는 인자가 없는 get 메서드가 있다&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;멤버 프로퍼티는 KProperty1 인터페이스로 표현되며, 인자가 1개 있는 get 이 있는데, 멤버 프로퍼티는 어떤 객체에 속해있는 프로퍼티 이므로,
+멤버 프로퍼티의 값을 가져오려면 get메소드에 프로퍼티를 얻고자 하는 객체 인스턴스를 넘겨야 한다.&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;class Person(val name: String, val age: Int)
+val person = Person(&quot;Alice&quot;,29)
+val memberProperty = Person::age
+println(memberProperty.get(person))
+==&amp;gt; 29
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;최상위 수준이나 클래스 안에 정의된 프로퍼티만 리플렉션으로 접근 할 수 있고, 함수의 로컬 변수에는 접근할 수 없다는 점을 알아둬야 한다&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Wonyoung yoo</name></author><summary type="html">애노테이션과 리플렉션</summary></entry><entry><title type="html">Kotlin Study - 10 애노테이션과 리플렉션 -1</title><link href="https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/04/Kotlin-18/" rel="alternate" type="text/html" title="Kotlin Study - 10 애노테이션과 리플렉션 -1" /><published>2019-09-04T21:10:00+00:00</published><updated>2019-09-04T21:10:00+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/04/Kotlin-18</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/04/Kotlin-18/">&lt;h1 id=&quot;애노테이션과-리플렉션&quot;&gt;애노테이션과 리플렉션&lt;/h1&gt;
+
+&lt;h2 id=&quot;애노테이션-선언과-적용&quot;&gt;애노테이션 선언과 적용&lt;/h2&gt;
+
+&lt;h3 id=&quot;애노테이션-적용&quot;&gt;애노테이션 적용&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;import org.junit.*
+class MyTest {
+  @Test fun testTrue() {
+    Assert.assertTrue(true)
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;코틀린에서도 java와 같이 적용하려는 대상 앞에 애노테이션을 붙이는 것으로 애노테이션 적용이 가능 하다&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;애노테이션에 인자를 넘길 떄에도 일반 함수와 마찬 가지로 괄호 안에 인자를 넣는 것으로 가능하다&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@Deprecated(&quot;Use removeAt(index) instead.&quot;, ReplaceWith(&quot;removeAt(index)&quot;))
+fun remove(index : Int) {...}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;위의 @Deprecated 예시를 보면 ReplaceWith를 통해 새로 대신할 패턴을 제시 함을 볼 수 있다. 이는 코틀린만의 기능이다&lt;/li&gt;
+  &lt;li&gt;하지만 애노테이션 인자를 지정하는 문법은 java와 약간 다르다
+    &lt;ul&gt;
+      &lt;li&gt;클래스를 애노테이션 인자로 지정 할 때에는 @MyAnnotation(MyClass::class) 처럼 ::class를 클래스 이름 뒤에 넣어야 한다&lt;/li&gt;
+      &lt;li&gt;다른 애노테이션을 인자로 지정 할 때에는 인자로 들어가는 애노테이션 앞에 @를 넣지 않아야 한다&lt;/li&gt;
+      &lt;li&gt;배열을 인자로 지정 하려면 @RequestMapping(path=arrayOf(“/foo”,”/bar”)) 처럼 arrayOf를 써야한다.&lt;/li&gt;
+      &lt;li&gt;애노테이션 인자를 컴파일 시점에 알수 있어야 하기 때문에, 임의의 프로퍼티를 인자로 지정 할 수는 없다&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;애노테이션-대상&quot;&gt;애노테이션 대상&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;import org.junit.*
+class HasTempFolder {
+  @get:Rule
+  val folder = TemporaryFolder()
+  
+  @Test
+  fun testUsingTempFolder() {
+    val createdFile = folder.newFile(&quot;myfile.txt&quot;)
+    val createdFolder = folder.newFolder(&quot;subfolder&quot;)
+    ...
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;코틀린 소스코드에서 한 선언을 컴파일한 결과가 여러 자바 선언과 대응하는 경우가 자주 있다&lt;/li&gt;
+  &lt;li&gt;이럴때 코틀린 선언과 대응하는 여러 자바 선언에 각각 애노테이션을 붙여야 한다&lt;/li&gt;
+  &lt;li&gt;사용 지점 대상 선언으로 애노테이션을 붙일 요소를 정할 수 있으며, 사용 지점 대상은 @ 기호와 애노테이션 이름 사이에 붙으며 : 으로 구분한다&lt;/li&gt;
+  &lt;li&gt;위의 코드에서 @Rule 애노테이션을 프로퍼티 게터에 적용 하라는 뜻이다&lt;/li&gt;
+  &lt;li&gt;사용 지점 대상을 지정할 떄 지원하는 대상 목록은 다음과 같다
+    &lt;ul&gt;
+      &lt;li&gt;property : 프로퍼티 전체, 자바에서 선언된 애노테이션에는 이 사용 지점 대상을 사용 할 수 없다&lt;/li&gt;
+      &lt;li&gt;field : 프로퍼티에 의해 생성되는 필드&lt;/li&gt;
+      &lt;li&gt;get : 프로퍼티 게터&lt;/li&gt;
+      &lt;li&gt;set : 프로퍼티 세터&lt;/li&gt;
+      &lt;li&gt;reveiver : 확장 함수나 프로퍼티 수신 객체 파라미터&lt;/li&gt;
+      &lt;li&gt;param : 생성자 파라미터&lt;/li&gt;
+      &lt;li&gt;setparam : 세터 파라미터&lt;/li&gt;
+      &lt;li&gt;delegate : 위임 프로퍼티의 위임 인스턴스를 담아둔 필드&lt;/li&gt;
+      &lt;li&gt;file : 파일 안에 선언된 최상위 함수와 프로퍼티를 담아두는 클래스&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;애노테이션을-활용한-json-직렬화-제어&quot;&gt;애노테이션을 활용한 JSON 직렬화 제어&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;애노테이션을 활용하는 대표적인 예제로 객체 직렬화 제어를 들 수 있다.&lt;/li&gt;
+  &lt;li&gt;직렬화를 할때 대표적으로 많이 사용되는 JSON을 직접 만들어 보면서 알아보자&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;먼저 객체를 직렬화 할 때에는 serialize, 역직렬화 할때에는 deserialize함수를 호출하며, deserialize할 때에는 타입 인자를 넘겨야 한다&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;data class Person(val name: String, val age: Int)
+val person = Person(&quot;Alice&quot;,29)
+println(serialize(person))
+==&amp;gt; {&quot;age&quot;:29, &quot;name&quot;:&quot;Alice&quot; }
+val json = &quot;&quot;&quot;{&quot;name&quot;:&quot;Alice&quot;,&quot;age&quot;:29}&quot;&quot;&quot;
+perintln(deserialize&amp;lt;Person&amp;gt;(json))
+==&amp;gt; Person(name=Alice,age=29)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;@JsonExclude 애노테이션을 활용해 직렬화나 역직렬화시 그 프로퍼티를 무시 할 수 있다&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;@JsonName 애노테이션으로 프로퍼티를 표현하는 키/값 쌍의 키로 프로퍼티 이름 대신 애노테이션이 지정한 이름을 쓸 수 있다&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;data class Person (
+  @JsonName(&quot;alice&quot;) val firstName: String,
+  @JsonExclude val age: Int? = null
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;이제 애노테이션을 어떻게 하는지 알아보자&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;애노테이션-선언&quot;&gt;애노테이션 선언&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;annotation class JsonExclude
+annotation class JsonName(val name: String)
+
+java code
+public @interface JsonName {
+  String value();
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;애노테이션 선언 구문은 일반 클래스선언 구문과 거의 비슷하며 class 키워드 앞에 annotation 이라는 변경자가 붙어 있다&lt;/li&gt;
+  &lt;li&gt;하지만 애노테이션 클래스는 오직 선언이나 식과 관련이 있는 메타 데이터의 구조를 정의하기 때문에, 내부에는 코드가 존재 할 수 없다&lt;/li&gt;
+  &lt;li&gt;자바 애노테이션에서는 value 메소드를 사용하며, 어떤 애노테이션을 적용할 때 value를 제외함 모든 애트리뷰트에는 항상 이름이 있어야 한다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;메타애노테이션-애노태이션을-처리하는-방법-제어&quot;&gt;메타애노테이션: 애노태이션을 처리하는 방법 제어&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;애노테이션 클래스에 적용 가능한 애노테이션을 메타 애노테이션이라고 한다&lt;/li&gt;
+  &lt;li&gt;표준 라이브러리에 있는 가장 흔히 쓰이는 메타 애노테이션은 @Target이며, 이는 애노테이션을 적용할수 있는 요소의 유형을 지정한다&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;애노테이션이 붙을 수 있는 대상이 정의된 enum은 AnnotationTaget 이며, 클래스, 파일, 프로퍼티, 프로퍼티 접근자, 타입, 식등에 대한 enum정의가 있다&lt;/p&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@Target(AnnotationTarget.PROPERTY)
+annotation class JsonExlcude
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;위와 같이 지정 할 수 있으며, 해당 애노테이션 코드를 자바에서 사용 하려면 AnnotationTarger.FIELD를 두번째 대상으로 추가 해야 한다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;애노테이션-파라미터로-클래스-사용&quot;&gt;애노테이션 파라미터로 클래스 사용&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;interface Company {
+  val name: String
+}
+
+data class CompanyImpl (override val name: String) : Company
+
+data class Person (
+  val name: String,
+  @DeserializeInterface(CompanyImpl::class) val company: Company
+)
+
+annotation class DeserializeInterface(val targetClass: KClass&amp;lt;out Any&amp;gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;@DeserializeInterface 애노테이션은 인터페이스 타입인 프로퍼티에 대한 역직렬화를 제어할 때 쓰인다&lt;/li&gt;
+  &lt;li&gt;Person 클래스를 역직렬화 하는 과정에서 company 프로퍼티를 표현하는 JSON을 읽으면 JSON을 역직렬화 하면서 CompanyImpl의 인스턴스를 만들어
+Peron의 company 프로퍼티에 설정 한다&lt;/li&gt;
+  &lt;li&gt;이렇게 역직렬화시 사용할 클래스를 지정하기 위해 애노테이션의 인자로 CompanyImpl::class를 인자로 넘기며, 클래스를 가르키기에 ::class를 붙인다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;애노테이션-파라미터로-제너릭-클래스-받기&quot;&gt;애노테이션 파라미터로 제너릭 클래스 받기&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;interface ValueSerializer&amp;lt;T&amp;gt; {
+  fun toJsonValue(value: T) : Any?
+  fun fromJsonValue(jsonValue: Any?) : T
+}
+
+data class Person( 
+  val name: String,
+  @CustomSerializer(DateSerializer::class) val birthDate: Date
+}
+
+annotation class CustomSerializer(
+  val serializerClass: KClass&amp;lt;out ValueSerializer&amp;lt;*&amp;gt;&amp;gt;
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;@CustomSerializer 애노테이션은 커스텀 직렬화 클래스에 대한 참조를 인자로 받는다&lt;/li&gt;
+  &lt;li&gt;이 직렬화 클래스는 ValueSerializer 인터페이스를 구현 해야만 하며, 이 애노테이션이 어떤 타입에 쓰일지 알 수 없으므로 스타프로젝션을 사용한다&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Wonyoung yoo</name></author><summary type="html">애노테이션과 리플렉션</summary></entry><entry><title type="html">Kotlin Study - 09 제너릭스 -2</title><link href="https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/01/Kotlin-17/" rel="alternate" type="text/html" title="Kotlin Study - 09 제너릭스 -2" /><published>2019-09-01T12:57:00+00:00</published><updated>2019-09-01T12:57:00+00:00</updated><id>https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/01/Kotlin-17</id><content type="html" xml:base="https://yoowonyoung.github.io/devlopr-starter/kotlin/study/2019/09/01/Kotlin-17/">&lt;h1 id=&quot;제너릭스&quot;&gt;제너릭스&lt;/h1&gt;
+
+&lt;h2 id=&quot;변성-제너릭과-하위-타입&quot;&gt;변성: 제너릭과 하위 타입&lt;/h2&gt;
+
+&lt;h3 id=&quot;변성이-있는-이유-인자를-함수에-넘기기&quot;&gt;변성이 있는 이유: 인자를 함수에 넘기기&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;List&lt;Any&gt; 타입의 파라미터를 받는 함수에 List&lt;String&gt;을 넘기면  안전하지 않다&lt;/String&gt;&lt;/Any&gt;&lt;/li&gt;
+  &lt;li&gt;어떤 함수가 List의 원소를 추가하거나 변경하면 타입 불일치가 생길 수 있기 때문이다( 그 이외엔 안전 하다고 볼 수 있다 )&lt;/li&gt;
+  &lt;li&gt;이러한 문제를 막기 위해 코틀린 에서는 리스트의 변경 가능성에 따라 적절한 인터페이스를 선택하면 안전하지 못한 호출을 막을 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;클래스-타입-하위타입&quot;&gt;클래스, 타입, 하위타입&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;제너릭 클래스가 아닌 클래스들은 클래스 이름을 타입으로 바로 쓸 수 있다(널이 될 수 있는 타입을 포함해, 클래스가 2개 이상의 타입을 구성할수있다)&lt;/li&gt;
+  &lt;li&gt;제너릭 클래스에서는 조금 복잡해진다. 각기 제너릭 타입은 무수히 많은 타입을 만들 수 있지만,
+올바른 타입을 얻으려면 제너릭 타입의 타입 파라미터를 구체적인 타입 인자로 바꿔야 하기 때문이다&lt;/li&gt;
+  &lt;li&gt;타입 사이의 관계를 논하기 위해서 하위 타입이라는 개념을 알아야 한다. 어떤 타입 A의 값이 필요한 장소에 B를 넣어도 아무 문제가 없다면 B는 A의 하위이다&lt;/li&gt;
+  &lt;li&gt;하위타입이 중요한 이유는 컴파일러가 변수 대입이나 함수 인자 전달 시 하위 타입 검사를 매번 수행하기 때문이다&lt;/li&gt;
+  &lt;li&gt;간단한 경우 하위 타입은 하위 클래스와 근본적으로 같지만, 널이 될 수 있는 타입은 아니다(Int를 받는곳에 Int?을 넘길 수 없다!)&lt;/li&gt;
+  &lt;li&gt;제너릭 타입을 인스턴스화 할때 타입 인자로 서로 다른 타입이 들어가면 인스턴스 타입 사이의 하위 타입 관계가 성립하지 않을 수 있다&lt;/li&gt;
+  &lt;li&gt;이떄 그 제너릭 타입을 서로 무공변 이라고 하고, 그 반대 경우를 공변적 이라고 말한다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;공변성-하위-타입-관계를-유지&quot;&gt;공변성: 하위 타입 관계를 유지&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;open class Animal {
+  fun feed() {...}
+}
+
+class Cat : Animal() {
+  fun cleanLitter() {...}
+}
+
+class Herd&amp;lt;out T: Animal&amp;gt; {
+  val size: Int get() = ...
+  operator fun get(i : Int) :T {...}
+}
+
+fun feedAll(animals: Herd&amp;lt;Animal&amp;gt;) {
+  for(i in 0 until animals.size) {
+    animals[i].feed()
+  }
+}
+
+fun takeCareOfCats(cats: Herd&amp;lt;Cat&amp;gt;) {
+  for(i in 0 until cats.size) {
+    cats[i].cleanLitter()
+  }
+  feedAll(cats)
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;코틀린에서 제너릭 클래스가 타입 파라미터에 대해 공변적임을 표시 하려면 타입 파라미터 이름 앞에 out 이라고 명시 해야 한다&lt;/li&gt;
+  &lt;li&gt;클래스의 타입 파라미터를 공변적으로 만들면 함수 정의에 사용한 파라미터 타입과 타입 인자의 타입이 정확히 일치 하지 않아도,
+그 클래스의 인스턴스를 함수 인자나 반환 값으로 사용 할 수 있다&lt;/li&gt;
+  &lt;li&gt;Herd의 타입 파라미터를 공변성으로 지정 하였기 때문에, feedAll에 Cats를 넘겨도 아무런 문제가 없으며, 캐스팅을 할 필요도 없다&lt;/li&gt;
+  &lt;li&gt;하지만 타입 파라미터를 공변적으로 지정하면 클래스 내부에서 그 파라미터를 사용하는 방법이 제한 된다&lt;/li&gt;
+  &lt;li&gt;타입의 안정성을 보장하기 위해 공변적 파라미터는 항상 out 위치에 있으며, 이는 클래스가 T타입의 값을 생산 할 수 있지만, 소비 할수 없다는뜻이다
+    &lt;ul&gt;
+      &lt;li&gt;함수 파라미터 타입은 in 위치, 반환 타입은 out 위치 이다&lt;/li&gt;
+      &lt;li&gt;fun tasnform(t : T) : T 에서 (t: T) 에 있는 T는 in 위치, : T 에 있는 T는 out 위치 이다&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;즉 타입 파라미터에 붙은 out은 공변성(하위 타입 관계 유지)와 사용제한( T를 아웃 위치에서만 사용 할 수 있다) 를 의미 한다&lt;/li&gt;
+  &lt;li&gt;코틀린의 List는 읽기 전용임을 생각 하면, List&lt;T&gt;는 T타입의 원소를 반환하는 get은 있지만, T타입을 추가하거나 변경하는 메소드는 없다는걸 알수있다&lt;/T&gt;&lt;/li&gt;
+  &lt;li&gt;즉, List는 T에 대해서 공변적인 것이다&lt;/li&gt;
+  &lt;li&gt;역으로 말해 MutableList&lt;T&gt;는 T에대해서 공변적으로 선언할 수 없음을 알 수 있다&lt;/T&gt;&lt;/li&gt;
+  &lt;li&gt;생성자 파라미터는 인이나 아웃 그 어느쪽도 아니기 때문에, 타입 파라미터가 out이여도 그 타입을 생성자 파라미터 선언 안에 사용 할 수 있다&lt;/li&gt;
+  &lt;li&gt;생성자는 나중에 호출 할 수 있는 메서드가 아니기 때문에 생성자는 위험 할 여지가 없기 때문이다&lt;/li&gt;
+  &lt;li&gt;이러한 변성의 특징을 이용해 위험할 여지가 있는 메소드를 호출 할 수 없게 만듦으로써 잘못 사용하는 일이 없게 방지 할 수 있다&lt;/li&gt;
+  &lt;li&gt;하지만 val 이나 var를 생성자 파라미터 안에 적는다면 getter/setter를 정의 하는것과 마찬가지 이므로 out에 제한이 생길 수 있다&lt;/li&gt;
+  &lt;li&gt;또한 이러한 위치 규칙은 public, protected, internal 에서만 적용 되며 private 메소드에는 적용 되지 않는다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;반공변성-뒤집혀진-하위-타입-관게&quot;&gt;반공변성: 뒤집혀진 하위 타입 관게&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Consumer&lt;T&gt; 를 예를 들어서, B가 A의 하위 타입 인 경우, Consumer&amp;lt; A &amp;gt; 가 Consumer&amp;lt; B &amp;gt; 의 하위 타입인 관계가 성립하면,
+제너릭 클래스 Consumer&amp;lt; T &amp;gt; 는 타입 인자 T에 반공변이다&lt;/T&gt;&lt;/li&gt;
+  &lt;li&gt;이는 공변성을 거울에 비친 상이라고 말 할 수 있으며 공변 클래스와 반대의 경우이다&lt;/li&gt;
+  &lt;li&gt;예를 들면, sortedWith 함수는 Comparator&lt;String&gt;을 요구 하므로, String보다 더 일반적인 타입인 Any를 넘기는 것은 안전하다
+&lt;/String&gt;    &lt;ul&gt;
+      &lt;li&gt;이때 Any는 String의 상위 타입이지만, Comparator&lt;String&gt;이 Comparator&lt;Any&gt;보다 상위 타입이 되는 것이다&lt;/Any&gt;&lt;/String&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;반공변성의 키워드는 당연히 공변성의 반대인 in을 사용하며, 앞서 설명 했던 in위치 에서만 사용 가능하다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;사용-지점-변성-타입이-언급되는-지점에서-변성-지정&quot;&gt;사용 지점 변성: 타입이 언급되는 지점에서 변성 지정&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;fun &amp;lt;T&amp;gt; copyData(source: MutableList&amp;lt;T&amp;gt;, destination: MutableList&amp;lt;T&amp;gt;) {
+  for (item in source) {
+    destination.add(item)
+  }
+}  -&amp;gt; 무공변 파라미터 타입을 사용해서 데이터 복사
+
+
+fun &amp;lt;T :R, R&amp;gt; copyData(source: MutableList&amp;lt;T&amp;gt;, destination: MutableList&amp;lt;R&amp;gt;) {
+  for (item in source) {
+    destination.add(item)
+  }
+} -&amp;gt; 타입 파라미터가 둘인 데이터 복사 함수
+
+val ints = mutableListOf(1,2,3)
+val anyItems = mutableListOf&amp;lt;Any&amp;gt;()
+copyData(ints,anyItems)
+println(anyItems)
+==&amp;gt; [1,2,3]
+
+
+fun &amp;lt;T&amp;gt; copyData(source: MutableList&amp;lt;out T&amp;gt;, destination: MutableList&amp;lt;T&amp;gt;) {
+  for (item in source) {
+    destination.add(item)
+  }
+}  -&amp;gt; 아웃-프로젝선 타입 파라미터를 사용하는 데이터 복사 함수
+
+val list: MuatableList&amp;lt;out Number&amp;gt; = ...
+list.add(42)
+==&amp;gt; Error: Out-protected type 'MutableList&amp;lt;out Number&amp;gt;' prohibits
+the use of 'fun add(element: E): Boolean'
+-&amp;gt; 아웃 프로젝션이 걸렸지만 add를 사용하여서 Error 발생
+
+fun &amp;lt;T&amp;gt; copyData(source: MutableList&amp;lt;T&amp;gt;, destination: MutableList&amp;lt;in T&amp;gt;) {
+  for (item in source) {
+    destination.add(item)
+  }
+} -&amp;gt; 인 프로젝선 타입 파라미터를 사용하는 데이터 복사 함수
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;클래스를 선언하면서 변성을 지정하면 그 클래스를 사용하는 모든 장소에 변성 지정자가 영향을 끼치므로 편리하다&lt;/li&gt;
+  &lt;li&gt;이러한 방식을 선언 지점 변성이라 부르며, 자바의 와일드카드 타입(? extends, ? super)와는 다르다&lt;/li&gt;
+  &lt;li&gt;잡바는 타입 파라미터가 있는 타입을 사용 할 때마다 타입 파라미터를 하위 타입이나 상위 타입중 어떤 타입으로 대치해야할지 명시해야한다
+    &lt;ul&gt;
+      &lt;li&gt;이를 사용 지점 변성이라고 부른다&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;코틀린도 이러한 사용 지점 변성을 지원하며, 클래스 안에서 어떤 타입 파라미터가 공변적이거나 반공변적인지 선언 할 수 없어도,
+특정 타입 파라미터가 나타나는 지점에서 변성을 정의 할 수 있다&lt;/li&gt;
+  &lt;li&gt;무공변 파라미터 타입을 사용하는 데이터 복사 함수는, 두 컬렉선 모두 무공변이지만, 원본 컬렉션에서는 읽기만, 대상 컬렉션에서는 쓰기만 하므로,
+컬렉션의 타입이 정확히 일치할 필요가 없다&lt;/li&gt;
+  &lt;li&gt;타입 파라미터를 2개 이용하면, 한 리스트에서 다른 리스트로 원소 복사를 하기 위해서는 원본 리스트 원소 타입은 대상 리스트 원소 타입의 하위여한다&lt;/li&gt;
+  &lt;li&gt;아웃 프로젝션 타입 파라미터를 사용하면, 대상 컬렉션의 메소드 중에서 반환 타입으로 타입 파라미터 T를 사용하는 메소드만 호출 할 수 있다&lt;/li&gt;
+  &lt;li&gt;하지만 List&lt;out T=&quot;&quot;&gt;는 이미 out 변겅자가 지정된 타입 파라미터를 out 프로젝선 하는 것은 의미가 없다
+&lt;/out&gt;    &lt;ul&gt;
+      &lt;li&gt;List의 정의는 이미 class List&lt;out T=&quot;&quot;&gt; 이다&lt;/out&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;비슷한 예로 타입 파라미터가 쓰이는 위치에 in을 붙여서 그 파라미터를 더 상위 타입으로 대치 할 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;스타-프로젝션-타입-인자-대신--사용&quot;&gt;스타 프로젝션: 타입 인자 대신 * 사용&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;제너릭 타입 인자 정보가 없음을 나타내기 위해 * 즉, 스타 프로젝션을 사용 할 수 있다&lt;/li&gt;
+  &lt;li&gt;예를 즐어 원소 타입이 알려지지 않은 List를 나타내기 위해 List&amp;lt; * &amp;gt; 이라고 할 수 있는 것이다&lt;/li&gt;
+  &lt;li&gt;하지만 이때, List &amp;lt;Any?&amp;gt; 와 List&amp;lt; * &amp;gt; 은 같지 않음에 주의 해야 한다
+    &lt;ul&gt;
+      &lt;li&gt;MutableList&amp;lt;Any?&amp;gt; 는 모든 타입의 원소를 담을 수 있지만, MutableList&amp;lt; * &amp;gt;은 어떤 정해진 구체적 타입의 원소만을 담지만 그 타입을 모르기 떄문이다&lt;/li&gt;
+      &lt;li&gt;즉 원소 타입을 모르기 때문에, 안에 어떤 원소나 다 담을수 없다. 하지만 원소 타입은 알수 없어도 원소를 얻을수는 있다&lt;/li&gt;
+      &lt;li&gt;모든 원소 타입이 Any?의 하위 타입이라는 사실은 분명하기 때문이다&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;이러한 타입 파라미터를 시그니처에서 전혀 언급하지 않거나, 데이터를 읽기는 하지만 데이터의 타입에 관심이 없는 경우에 스타 프로젝션을 사용한다&lt;/li&gt;
+  &lt;li&gt;스타 프로젝션을 사용하면 잘못된 타입을 가져와서 쓰기 쉽기 때문에 주의 해야 한다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;요약&quot;&gt;요약&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;코틀린의 제너릭스는 자바와 아주 유사하다. 제너릭 함수와 클래스를 자바와 비슷하게 선언 할 수 있다&lt;/li&gt;
+  &lt;li&gt;자바와 마찬가지로 제너릭 타입의 타입 인자는 컴파일 시점에만 존재 한다&lt;/li&gt;
+  &lt;li&gt;타입 인자가 실행 시점에 지워 지므로, 타입 인자가 있는 타입을 is 연산자를 사용해 검사할 수 없다&lt;/li&gt;
+  &lt;li&gt;인라인 함수의 타입 매개변수를 reified로 표시해서 실체화 하면 실핼 시점에 그 타입을 is로 검사 하거나 java.lang.Class 인스턴스를 얻을 수 있다&lt;/li&gt;
+  &lt;li&gt;변성은 기저 클래스가 같고 타입 파라미터가 다른 두 제너릭 타입 사이의 상위/하위 타입 관계가 타입 인자 사이의 상위/하위 타입의 관계에 의해 어떤
+영향을 받는지를 명시하는 방법이다&lt;/li&gt;
+  &lt;li&gt;제너릭 클래스의 타입 파라미터가 out위치에서만 사용되는 경우, 그 타입 파라미터를 out으로 표시해서 공변적으로 만들 수 있다&lt;/li&gt;
+  &lt;li&gt;공변적인 경우와 반대로 제너릭 클래스의 타입 파라미터가 in위치 에서만 사용되는 경우, in으로 표시해서 반공변적으로 만들 수 있다&lt;/li&gt;
+  &lt;li&gt;코틀린의 읽기전용 List인터페이스는 공변적이다. 따라서 List&lt;String&gt;은 List&lt;Any&gt;의 하위 타입 이다&lt;/Any&gt;&lt;/String&gt;&lt;/li&gt;
+  &lt;li&gt;함수 인터페이스는 함수 타입 파라미터에 대해서는 반공변적이며, 함수 반환 타입에 대해서는 공변적이다&lt;/li&gt;
+  &lt;li&gt;코틀린 에서는 제너릭 클래스의 공변성을 전체적으로 지정 하거나(선언 지점 변성), 구체적인 사용 위치에서 지정할 수있다(사용 지점 변성)&lt;/li&gt;
+  &lt;li&gt;제너릭 클래스의 타입 인자가 어떤 타입인지 정보가 없거나 타입 인자가 어떤 타입인지가 중요하지 않을 때, 스타 프로젝션 구문을 사용 할 수 있다&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Wonyoung yoo</name></author><summary type="html">제너릭스</summary></entry></feed>
