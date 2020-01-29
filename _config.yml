@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Wonyoung yoo
-  tagline: Software Engineer
+  tagline: 초보 Software Engineer
   disqus_shortname: wonyoung
   date_format: "%b %-d, %Y"
   style: black
