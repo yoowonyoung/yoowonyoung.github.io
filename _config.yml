@@ -17,6 +17,7 @@ permalink: /posts/:title/
 texture:
   title: Wonyoung yoo
   tagline: Software Engineer
+  disqus_shortname: wonyoung
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
