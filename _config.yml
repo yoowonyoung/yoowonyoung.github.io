@@ -2,9 +2,8 @@ title: Wonyoung Blog
 author: Wonyoung
 email: wonyoung0105@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  초보 개발자가 소소하게 공부한거 올리는 공간.
+  가끔 심심하면 사진찍은것도 올려볼까 합니다.
 show_excerpts: false # set to true to show excerpts on the homepage
 baseurl: 
 
