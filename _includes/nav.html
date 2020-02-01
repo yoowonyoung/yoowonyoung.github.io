@@ -1,8 +1,14 @@
 {%- if site.texture.showNav -%}
 <div class="navbar">
-	<ul>
-		<a href="#"><li>Home</li></a>
-		<a href="#"><li>About</li></a>
-	</ul>
+	<ul class='cat1'>
+		<li><a href="/">Home</a></li>
+		<li><a href="/Study">Study</a>
+		  <ul>
+			  <li><a href="/Study/Kotlin">Kotlin</a></li>
+			  <li><a href="/Study/Angular">Angular</a></li>
+			  <li><a href="/Study/TypeScript">TypeScript</a></li>
+		  </ul>
+		</li>
+	  </ul>
 </div>
 {%- endif -%}
