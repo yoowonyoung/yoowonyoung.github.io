@@ -11,3 +11,4 @@ permalink: '/AngularAndTypeScript'
 # Angular & TypeScript Posts
 
 - [1장 Angular소개](https://yoowonyoung.github.io/posts/Angular-01/)
+- [2장 Angular 시작하기 1번째](https://yoowonyoung.github.io/posts/Angular-02/)
