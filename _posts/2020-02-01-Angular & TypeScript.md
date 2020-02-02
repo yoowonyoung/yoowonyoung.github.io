@@ -8,6 +8,6 @@ permalink: '/AngularAndTypeScript'
 ---
 
 
-# Angular Posts
+# Angular & TypeScript Posts
 
-# TypeScript Posts
+- [1장 Angular소개](https://yoowonyoung.github.io/posts/Angular-01/)
