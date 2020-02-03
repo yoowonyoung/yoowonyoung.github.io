@@ -8,11 +8,13 @@ permalink: '/AngularAndTypeScript'
 ---
 
 
-# Angular & TypeScript Posts
+# Angular Posts
 
 - [1장 Angular소개](https://yoowonyoung.github.io/posts/Angular-01/)
 - [2장 Angular 시작하기 1번째](https://yoowonyoung.github.io/posts/Angular-02/)
 - [2장 Angular 시작하기 2번째](https://yoowonyoung.github.io/posts/Angular-03/)
+
+# TypeScript Posts
 
 # Reference
 - [TypeScript MVC](http://www.carloscaballero.io/understanding-mvc-for-frontend-typescript/amp/)
