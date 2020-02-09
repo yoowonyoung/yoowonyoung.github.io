@@ -15,6 +15,7 @@ permalink: '/AngularAndTypeScript'
 - [2장 Angular 시작하기 2번째](https://yoowonyoung.github.io/posts/Angular-03/)
 - [3장 라우터로 네비게이션 구현하기 1번째](https://yoowonyoung.github.io/posts/Angular-04/)
 - [3장 라우터로 네비게이션 구현하기 2번째](https://yoowonyoung.github.io/posts/Angular-05/)
+- [3장 라우터로 네비게이션 구현하기 3번째](https://yoowonyoung.github.io/posts/Angular-06/)
 
 # TypeScript Posts
 
