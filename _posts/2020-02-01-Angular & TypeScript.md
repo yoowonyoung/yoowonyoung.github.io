@@ -18,6 +18,7 @@ permalink: '/AngularAndTypeScript'
 - [3장 라우터로 네비게이션 구현하기 3번째](https://yoowonyoung.github.io/posts/Angular-06/)
 - [4장 의존성 주입](https://yoowonyoung.github.io/posts/Angular-07/)
 - [5장 바인딩, 옵저버블, 파이프 1번째](https://yoowonyoung.github.io/posts/Angular-08/)
+- [5장 바인딩, 옵저버블, 파이프 2번째](https://yoowonyoung.github.io/posts/Angular-09/)
 
 # TypeScript Posts
 
