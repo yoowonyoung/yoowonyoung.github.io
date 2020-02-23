@@ -20,6 +20,7 @@ permalink: '/AngularAndTypeScript'
 - [5장 바인딩, 옵저버블, 파이프 1번째](https://yoowonyoung.github.io/posts/Angular-08/)
 - [5장 바인딩, 옵저버블, 파이프 2번째](https://yoowonyoung.github.io/posts/Angular-09/)
 - [5장 바인딩, 옵저버블, 파이프 3번째](https://yoowonyoung.github.io/posts/Angular-10/)
+- [6장 컴포넌트 통신](https://yoowonyoung.github.io/posts/Angular-11/)
 
 # TypeScript Posts
 
