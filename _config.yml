@@ -28,7 +28,7 @@ texture:
     linkedIn: in/원영-유-2b2147121/
     instagram: dnjsdud0105
  
-paginate: 10
+#paginate: 10
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -40,5 +40,5 @@ paginate: 10
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
+  #- jekyll-paginate
   #- jekyll-feed
