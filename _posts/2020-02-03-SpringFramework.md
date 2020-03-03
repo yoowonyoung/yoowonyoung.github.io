@@ -10,6 +10,8 @@ permalink: '/SpringFramework'
 
 # Spring Framework Posts
   
-  
+ # Reference
+- [JPA Mapping - 상속관계](http://wonwoo.ml/index.php/post/828)
+ 
   
 
