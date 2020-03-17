@@ -11,3 +11,4 @@ permalink: '/SoftwareEngineering'
 
 # Reference
 - [Single Assertion in Test Case](https://softwareengineering.stackexchange.com/questions/7823/is-it-ok-to-have-multiple-asserts-in-a-single-unit-test)
+- [Hamcrest 프레임워크](https://cornswrold.tistory.com/364)
