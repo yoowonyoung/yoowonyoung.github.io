@@ -12,3 +12,5 @@ permalink: '/SoftwareEngineering'
 # Reference
 - [Single Assertion in Test Case](https://softwareengineering.stackexchange.com/questions/7823/is-it-ok-to-have-multiple-asserts-in-a-single-unit-test)
 - [Hamcrest 프레임워크](https://cornswrold.tistory.com/364)
+- [Spring boot Oauth2 Example - Github](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+- [OAuth 2.0](https://terasolunaorg.github.io/guideline/5.4.1.RELEASE/en/Security/OAuth.html)
