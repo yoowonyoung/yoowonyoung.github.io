@@ -14,3 +14,4 @@ permalink: '/SoftwareEngineering'
 - [Hamcrest 프레임워크](https://cornswrold.tistory.com/364)
 - [Spring boot Oauth2 Example - Github](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 - [OAuth 2.0](https://terasolunaorg.github.io/guideline/5.4.1.RELEASE/en/Security/OAuth.html)
+- [공개 S/W 라이센스](http://jinyongjeong.github.io/2016/06/01/software_license/)
