@@ -16,3 +16,4 @@ permalink: '/SoftwareEngineering'
 - [OAuth 2.0](https://terasolunaorg.github.io/guideline/5.4.1.RELEASE/en/Security/OAuth.html)
 - [공개 S/W 라이센스](http://jinyongjeong.github.io/2016/06/01/software_license/)
 - [HTTP 캐싱](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=ko)
+- [ANSIBLE](https://brownbears.tistory.com/358)
