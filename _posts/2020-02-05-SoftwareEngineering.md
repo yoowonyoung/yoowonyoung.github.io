@@ -17,3 +17,4 @@ permalink: '/SoftwareEngineering'
 - [공개 S/W 라이센스](http://jinyongjeong.github.io/2016/06/01/software_license/)
 - [HTTP 캐싱](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=ko)
 - [ANSIBLE](https://brownbears.tistory.com/358)
+- [LDAP](https://soul0.tistory.com/180)
