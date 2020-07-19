@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Effective Java - 02 객체의 생성과 파괴 - 생성자 대신 정적 팩터리 메서드"
-description: 2장 객체의 생성과 파괴
+title: "Effective Java - 아이템1: 생성자 대신 정적 팩터리 메서드"
+description: 생성자 대신 정적 팩터리 메서드s
 date: 2020-07-16 20:22:00 +09:00
 categories: EffectiveJava Study
 ---
