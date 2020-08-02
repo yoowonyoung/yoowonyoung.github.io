@@ -9,6 +9,7 @@ permalink: '/SpringFramework'
 
 
 # Spring Framework Posts
+- [Spring Framework](https://yoowonyoung.github.io/posts/SpringFramework-01/)
   
  # Reference
 - [JPA Mapping - 상속관계](http://wonwoo.ml/index.php/post/828)
