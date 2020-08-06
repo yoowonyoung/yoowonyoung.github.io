@@ -17,6 +17,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템7 : 다 쓴 객체를 참조 해제하라](https://yoowonyoung.github.io/posts/Effective-Java-07/)
 - [Effective Java - 아이템8 : finalizer와 cleaner사용을 피하라](https://yoowonyoung.github.io/posts/Effective-Java-08/)
 - [Effective Java - 아이템9 : try-finally보다는 tiry-with-resource를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-09/)
+- [Effective Java - 아이템10 : equals는 일반 규약을 지켜 재정의 하라](https://yoowonyoung.github.io/posts/Effective-Java-10/)
 
 
 # Reference
