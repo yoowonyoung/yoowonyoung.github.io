@@ -19,6 +19,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템9 : try-finally보다는 tiry-with-resource를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-09/)
 - [Effective Java - 아이템10 : equals는 일반 규약을 지켜 재정의 하라](https://yoowonyoung.github.io/posts/Effective-Java-10/)
 - [Effective Java - 아이템11 : equals를 재정의 하려거든 hashCode도 재정의 하라](https://yoowonyoung.github.io/posts/Effective-Java-11/)
+- [Effective Java - 아이템12 : toString을 항상 재정의하라](https://yoowonyoung.github.io/posts/Effective-Java-12/)
 
 
 # Reference
