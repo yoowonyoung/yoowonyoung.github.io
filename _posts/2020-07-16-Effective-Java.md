@@ -21,6 +21,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템11 : equals를 재정의 하려거든 hashCode도 재정의 하라](https://yoowonyoung.github.io/posts/Effective-Java-11/)
 - [Effective Java - 아이템12 : toString을 항상 재정의하라](https://yoowonyoung.github.io/posts/Effective-Java-12/)
 - [Effective Java - 아이템13 : clone 재정의는 주의해서 진행해라](https://yoowonyoung.github.io/posts/Effective-Java-13/)
+- [Effective Java - 아이템14 : Comparable을 구현할지 고려하라](https://yoowonyoung.github.io/posts/Effective-Java-14/)
 
 
 # Reference
