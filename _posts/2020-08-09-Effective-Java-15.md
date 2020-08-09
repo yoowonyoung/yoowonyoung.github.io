@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 모든 객체의 공통 메서드
+# 클래스와 인터페이스
 
 ## 아이템 15 : 클래스와 멤버의 접근권환을 최소화하라
 

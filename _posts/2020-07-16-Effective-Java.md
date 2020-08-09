@@ -23,6 +23,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템13 : clone 재정의는 주의해서 진행해라](https://yoowonyoung.github.io/posts/Effective-Java-13/)
 - [Effective Java - 아이템14 : Comparable을 구현할지 고려하라](https://yoowonyoung.github.io/posts/Effective-Java-14/)
 - [Effective Java - 아이템15 : 클래스와 멤버의 접근권환을 최소화하라](https://yoowonyoung.github.io/posts/Effective-Java-15/)
+- [Effective Java - 아이템16 : public 클래스에서는 public 필드가 아닌 접근자 메서드를 활용하라](https://yoowonyoung.github.io/posts/Effective-Java-16/)
 
 
 # Reference
