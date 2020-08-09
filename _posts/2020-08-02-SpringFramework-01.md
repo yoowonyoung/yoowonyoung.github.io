@@ -58,6 +58,7 @@ categories: Spring SpringFramework Study
 ## Ref
 - [Spring Framework](https://khj93.tistory.com/entry/Spring-Spring-Framework%EB%9E%80-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC)
 - [MVC, MVP, MVVM](https://beomy.tistory.com/43)
+- [MVC, MVP, MVVM 안드로이드 예시](https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/)
   
 
     
