@@ -2,7 +2,7 @@
 layout: post
 title: "Effective Java - 아이템17: 변경 가능성을 최소화 하라"
 description: 변경 가능성을 최소화 하라
-date: 2020-08-09 17:53:00 +09:00
+date: 2020-08-10 20:53:00 +09:00
 categories: EffectiveJava Study
 ---
 

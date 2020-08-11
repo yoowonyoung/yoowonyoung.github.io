@@ -25,6 +25,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템15 : 클래스와 멤버의 접근권환을 최소화하라](https://yoowonyoung.github.io/posts/Effective-Java-15/)
 - [Effective Java - 아이템16 : public 클래스에서는 public 필드가 아닌 접근자 메서드를 활용하라](https://yoowonyoung.github.io/posts/Effective-Java-16/)
 - [Effective Java - 아이템17 : 변경 가능성을 최소화 하라](https://yoowonyoung.github.io/posts/Effective-Java-17/)
+- [Effective Java - 아이템18 : 상속보다는 컴포지션을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-18/)
 
 
 # Reference
