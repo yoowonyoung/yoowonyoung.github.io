@@ -26,6 +26,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템16 : public 클래스에서는 public 필드가 아닌 접근자 메서드를 활용하라](https://yoowonyoung.github.io/posts/Effective-Java-16/)
 - [Effective Java - 아이템17 : 변경 가능성을 최소화 하라](https://yoowonyoung.github.io/posts/Effective-Java-17/)
 - [Effective Java - 아이템18 : 상속보다는 컴포지션을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-18/)
+- [Effective Java - 아이템19 : 상속을 고려해 설계하고 문서화 하라. 그러지 않았다면 상속을 금지하라](https://yoowonyoung.github.io/posts/Effective-Java-19/)
 
 
 # Reference
