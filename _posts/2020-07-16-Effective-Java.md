@@ -32,6 +32,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템22 : 인터페이스는 타입을 정의하는 용도로만 사용해라](https://yoowonyoung.github.io/posts/Effective-Java-22/)
 - [Effective Java - 아이템23 : 태그달린 클래스 보다는 클래스 계층구조를 활용하라](https://yoowonyoung.github.io/posts/Effective-Java-23/)
 - [Effective Java - 아이템24 : 멤버클래스는 되도록 static으로 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-24/)
+- [Effective Java - 아이템25 : 톱레벨 클래스는 한파일에 하나만 담아라](https://yoowonyoung.github.io/posts/Effective-Java-25/)
 
 
 # Reference
