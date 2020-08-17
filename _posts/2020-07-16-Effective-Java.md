@@ -29,6 +29,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템19 : 상속을 고려해 설계하고 문서화 하라. 그러지 않았다면 상속을 금지하라](https://yoowonyoung.github.io/posts/Effective-Java-19/)
 - [Effective Java - 아이템20 : 추상클래스보다는 인터페이스를 우선하라](https://yoowonyoung.github.io/posts/Effective-Java-20/)
 - [Effective Java - 아이템21 : 인터페이스는 구현하는쪽을 생각해 설계하라](https://yoowonyoung.github.io/posts/Effective-Java-21/)
+- [Effective Java - 아이템22 : 인터페이스는 타입을 정의하는 용도로만 사용해라](https://yoowonyoung.github.io/posts/Effective-Java-22/)
 
 
 # Reference
