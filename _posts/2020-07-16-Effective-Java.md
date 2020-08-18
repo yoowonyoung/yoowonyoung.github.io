@@ -35,6 +35,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템25 : 톱레벨 클래스는 한파일에 하나만 담아라](https://yoowonyoung.github.io/posts/Effective-Java-25/)
 - [Effective Java - 아이템26 : 로 타입은 사용하지 말라](https://yoowonyoung.github.io/posts/Effective-Java-26/)
 - [Effective Java - 아이템27 : 비검사 경고를 제거하라](https://yoowonyoung.github.io/posts/Effective-Java-27/)
+- [Effective Java - 아이템28 : 배열보다는 리스트를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-28/)
 
 
 # Reference
