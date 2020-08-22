@@ -38,6 +38,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템28 : 배열보다는 리스트를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-28/)
 - [Effective Java - 아이템29 : 이왕이면 제너릭 타입으로 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-29/)
 - [Effective Java - 아이템30 : 이왕이면 제너릭 메서드로 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-30/)
+- [Effective Java - 아이템31 : 한정적 와일드카드를 사용해 API의 유연성을 높여라](https://yoowonyoung.github.io/posts/Effective-Java-31/)
 
 
 # Reference
