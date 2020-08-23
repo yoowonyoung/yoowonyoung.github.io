@@ -39,6 +39,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템29 : 이왕이면 제너릭 타입으로 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-29/)
 - [Effective Java - 아이템30 : 이왕이면 제너릭 메서드로 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-30/)
 - [Effective Java - 아이템31 : 한정적 와일드카드를 사용해 API의 유연성을 높여라](https://yoowonyoung.github.io/posts/Effective-Java-31/)
+- [Effective Java - 아이템32 : 제너릭과 가변인수를 함께 쓸때는 신중해라](https://yoowonyoung.github.io/posts/Effective-Java-32/)
 
 
 # Reference
