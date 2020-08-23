@@ -41,6 +41,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템31 : 한정적 와일드카드를 사용해 API의 유연성을 높여라](https://yoowonyoung.github.io/posts/Effective-Java-31/)
 - [Effective Java - 아이템32 : 제너릭과 가변인수를 함께 쓸때는 신중해라](https://yoowonyoung.github.io/posts/Effective-Java-32/)
 - [Effective Java - 아이템33 : 타입 안전 이종 컨테이너를 고려하라](https://yoowonyoung.github.io/posts/Effective-Java-33/)
+- [Effective Java - 아이템34 : int 상수대신 열거 타입을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-34/)
 
 
 # Reference
