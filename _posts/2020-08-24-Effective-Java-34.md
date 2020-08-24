@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 제너릭
+# 열거타입과 어노테이션
 
 ## 아이템 34 : int 상수대신 열거 타입을 사용하라
 
