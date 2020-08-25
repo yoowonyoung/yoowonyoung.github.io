@@ -44,6 +44,8 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템34 : int 상수대신 열거 타입을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-34/)
 - [Effective Java - 아이템35 : ordinal메서드 대신 인스턴스 필드를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-35/)
 - [Effective Java - 아이템36 : 비트필드 대신 EnumSet을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-36/)
+- [Effective Java - 아이템37 : ordinal 인덱싱 대신 EnumMap을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-37/)
+- [Effective Java - 아이템38 : 확장할 수 있는 열거타입이 필요하면 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-38/)
 
 # Reference
 
