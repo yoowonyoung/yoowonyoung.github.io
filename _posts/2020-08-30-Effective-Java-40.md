@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Effective Java - 아이템40: @Override 어노테이션을 일관되게 사용하라"
-description: @Override 어노테이션을 일관되게 사용하라
+description: Override 어노테이션을 일관되게 사용하라
 date: 2020-08-30 19:18:00 +09:00
 categories: EffectiveJava Study
 ---
