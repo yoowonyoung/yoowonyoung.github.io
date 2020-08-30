@@ -48,6 +48,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템38 : 확장할 수 있는 열거타입이 필요하면 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-38/)
 - [Effective Java - 아이템39 : 명명패턴 보다 어노테이션을 활용하라](https://yoowonyoung.github.io/posts/Effective-Java-39/)
 - [Effective Java - 아이템40 : @Override 어노테이션을 일관되게 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-40/)
+- [Effective Java - 아이템41 : 정의하려는것이 타입이라면 마커 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-41/)
 
 # Reference
 
