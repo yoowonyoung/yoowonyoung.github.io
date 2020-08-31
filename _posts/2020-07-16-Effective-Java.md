@@ -49,6 +49,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템39 : 명명패턴 보다 어노테이션을 활용하라](https://yoowonyoung.github.io/posts/Effective-Java-39/)
 - [Effective Java - 아이템40 : @Override 어노테이션을 일관되게 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-40/)
 - [Effective Java - 아이템41 : 정의하려는것이 타입이라면 마커 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-41/)
+- [Effective Java - 아이템42 : 익명 클래스보다는 람다를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-42/)
 
 # Reference
 
