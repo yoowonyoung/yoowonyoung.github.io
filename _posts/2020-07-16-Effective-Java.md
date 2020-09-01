@@ -51,6 +51,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템41 : 정의하려는것이 타입이라면 마커 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-41/)
 - [Effective Java - 아이템42 : 익명 클래스보다는 람다를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-42/)
 - [Effective Java - 아이템43 : 람다보다는 메서드 참조를 이용하라](https://yoowonyoung.github.io/posts/Effective-Java-43/)
+- [Effective Java - 아이템44 : 표준 함수형 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-44/)
 
 # Reference
 
