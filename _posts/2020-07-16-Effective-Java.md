@@ -53,6 +53,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템43 : 람다보다는 메서드 참조를 이용하라](https://yoowonyoung.github.io/posts/Effective-Java-43/)
 - [Effective Java - 아이템44 : 표준 함수형 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-44/)
 - [Effective Java - 아이템45 : 스트림은 주의해서 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-45/)
+- [Effective Java - 아이템46 : 스트림에서는 부작용이 없는 함수를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-46/)
 
 # Reference
 
