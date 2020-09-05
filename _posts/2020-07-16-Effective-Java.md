@@ -58,6 +58,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템48 : 스트림 병렬화는 주의해서 적용하라](https://yoowonyoung.github.io/posts/Effective-Java-48/)
 - [Effective Java - 아이템49 : 매개변수가 유효한지 검사해라](https://yoowonyoung.github.io/posts/Effective-Java-49/)
 - [Effective Java - 아이템50 : 적시에 방어적 복사본을 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-50/)
+- [Effective Java - 아이템51 : 메서드 시그니처를 신중히 설계해라](https://yoowonyoung.github.io/posts/Effective-Java-51/)
 
 
 # Reference
