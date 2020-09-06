@@ -62,7 +62,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템52 : 다중정의는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-52/)
 - [Effective Java - 아이템53 : 가변인수는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-53/)
 - [Effective Java - 아이템54 : null이 아닌 빈 컬렉션이나 배열을 반환하라](https://yoowonyoung.github.io/posts/Effective-Java-54/)
-
+- [Effective Java - 아이템55 : 옵셔널 반환은 신중히 하라](https://yoowonyoung.github.io/posts/Effective-Java-55/)
 
 # Reference
 

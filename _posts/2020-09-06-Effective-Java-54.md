@@ -2,7 +2,7 @@
 layout: post
 title: "Effective Java - 아이템54: null이 아닌 빈 컬렉션이나 배열을 반환하라"
 description: null이 아닌 빈 컬렉션이나 배열을 반환하라
-date: 2020-09-06 15:17:00 +09:00
+date: 2020-09-06 17:17:00 +09:00
 categories: EffectiveJava Study
 ---
 
