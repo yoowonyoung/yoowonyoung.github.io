@@ -60,6 +60,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템50 : 적시에 방어적 복사본을 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-50/)
 - [Effective Java - 아이템51 : 메서드 시그니처를 신중히 설계해라](https://yoowonyoung.github.io/posts/Effective-Java-51/)
 - [Effective Java - 아이템52 : 다중정의는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-52/)
+- [Effective Java - 아이템53 : 가변인수는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-53/)
 
 
 # Reference
