@@ -61,6 +61,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템51 : 메서드 시그니처를 신중히 설계해라](https://yoowonyoung.github.io/posts/Effective-Java-51/)
 - [Effective Java - 아이템52 : 다중정의는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-52/)
 - [Effective Java - 아이템53 : 가변인수는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-53/)
+- [Effective Java - 아이템54 : null이 아닌 빈 컬렉션이나 배열을 반환하라](https://yoowonyoung.github.io/posts/Effective-Java-54/)
 
 
 # Reference
