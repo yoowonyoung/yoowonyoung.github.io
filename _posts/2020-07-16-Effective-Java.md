@@ -64,6 +64,8 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템54 : null이 아닌 빈 컬렉션이나 배열을 반환하라](https://yoowonyoung.github.io/posts/Effective-Java-54/)
 - [Effective Java - 아이템55 : 옵셔널 반환은 신중히 하라](https://yoowonyoung.github.io/posts/Effective-Java-55/)
 - [Effective Java - 아이템56 : 공개된 API요소에는 항상 문서화 주석을 작성하라](https://yoowonyoung.github.io/posts/Effective-Java-56/)
+- [Effective Java - 아이템57 : 지역변수의 범위를 최소화 하라](https://yoowonyoung.github.io/posts/Effective-Java-57/)
+- [Effective Java - 아이템58 : 전통적인 for문 보다는 for-each문을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-58/)
 
 # Reference
 
