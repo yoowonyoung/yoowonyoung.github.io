@@ -66,6 +66,8 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템56 : 공개된 API요소에는 항상 문서화 주석을 작성하라](https://yoowonyoung.github.io/posts/Effective-Java-56/)
 - [Effective Java - 아이템57 : 지역변수의 범위를 최소화 하라](https://yoowonyoung.github.io/posts/Effective-Java-57/)
 - [Effective Java - 아이템58 : 전통적인 for문 보다는 for-each문을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-58/)
+- [Effective Java - 아이템59 : 라이브러리를 익히고 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-59/)
+- [Effective Java - 아이템60 : 정확한 답이 필요하면 float와 double은 피해라](https://yoowonyoung.github.io/posts/Effective-Java-60/)
 
 # Reference
 
