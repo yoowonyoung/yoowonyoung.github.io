@@ -34,7 +34,7 @@ public class Stack {
         return result;
     }
 
-    private void ensureCapacity {
+    private void ensureCapacity() {
         if(elements.length == size) {
             elements = Arrays.copyOf(elements, 2*size + 1);
         }
