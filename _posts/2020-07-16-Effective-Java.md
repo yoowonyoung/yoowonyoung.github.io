@@ -69,6 +69,9 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템59 : 라이브러리를 익히고 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-59/)
 - [Effective Java - 아이템60 : 정확한 답이 필요하면 float와 double은 피해라](https://yoowonyoung.github.io/posts/Effective-Java-60/)
 - [Effective Java - 아이템61 : 박싱된 기본 타입보다는 기본 타입을 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-61/)
+- [Effective Java - 아이템62 : 다른타입이 적절하다면 문자열 사용을 피하라](https://yoowonyoung.github.io/posts/Effective-Java-62/)
+- [Effective Java - 아이템63 : 문자열 연결은 느리니 주의하라](https://yoowonyoung.github.io/posts/Effective-Java-63/)
+- [Effective Java - 아이템64 : 객체는 인터페이스를 사용해 참조하라](https://yoowonyoung.github.io/posts/Effective-Java-64/)
 
 # Reference
 
