@@ -81,7 +81,7 @@ public class Chooser<T> {
 
     public T choose() {
         Random rnd = ThreadLocalRandom.current();
-        return choiceArray[rnd.nextInt(choiceArray.size())];
+        return choiceArray.get(rnd.nextInt(choiceArray.size()));
     }
 }
 ```

@@ -24,7 +24,7 @@ public void pushAll(Iterable<E> src) {
 ```
 
 - 이 메서드는 깨끗히 컴파일되지만, 모든상황에서 완벽하게 작동하는것은 아니다. Iterable src의 원소 타입이 스택의 원소 타입과 일치할때만 잘 작동한다
-- 즉 Stack<Number>로 선언한 후 puslAll에 Integer를 넣을경우 동작하지 않는다
+- 즉 Stack<Number>로 선언한 후 pushAll에 Integer를 넣을경우 동작하지 않는다
 - 논리적으로는 Integer는 Number의 하위타입 이므로 잘 동작해야 할것으로 보이지만, 매개변수화 타입은 불공변이기 때문에 오류가 난다
 - 해결책은 한정적 와일드카드라는 특별한 매개변수화 타입을 활용하는 것이다
 
