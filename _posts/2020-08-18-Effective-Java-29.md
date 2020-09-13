@@ -34,7 +34,7 @@ public class Stack {
         return result;
     }
 
-    private void ensureCapacity {
+    private void ensureCapacity() {
         if(elements.length == size) {
             elements = Arrays.copyOf(elements, 2*size + 1);
         }
@@ -80,7 +80,7 @@ public class Stack {
 - 해결책으로는 2가지 방법이 존재 하는데, 첫번쨰는 제너릭 배열 생성 제약을 우회하는 방법이다. Object 배열을 생성한 후 제너릭 배열로 형변환 하면 된다
 
 ```java
-@SuppressWarnings("Unchecked")
+@SuppressWarnings("unchecked")
 public Stack() {
     elements = (E[]) new Object[DEFAULT_INITIAL_CAPACITY];
 }
@@ -94,7 +94,7 @@ public Stack() {
 public E pop() {
     if (size == 0)
         throw new EmptyStackException();
-    @SuppressWarnings("Unchecked")
+    @SuppressWarnings("unchecked")
     E result = (E)elements[--size];
     element[size] = null;
     return result;

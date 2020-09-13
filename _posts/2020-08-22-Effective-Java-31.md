@@ -11,8 +11,8 @@ categories: EffectiveJava Study
 
 ## 아이템 31 : 한정적 와일드카드를 사용해 API유연성을 높여라
 
-- 아이템 28에서 이야기했듯 매개변수화 타입은 불공변이므로 Type1, Type2가 있을때 List<Type1>, List<Type2>는 어떤 관계도 아니다
-- List<String>은 List<Object>의 하위타입이 아니라는소린데, 리스코프 치환원칙을 생각해보면 맞는말이다. List<String>은 List<Object>를 대체랄 수 없다
+- 아이템 28에서 이야기했듯 매개변수화 타입은 불공변이므로 Type1, Type2가 있을때 ```List<Type1>```, ```List<Type2>```는 어떤 관계도 아니다
+- ```List<String>```은 ```List<Object>``` 의 하위타입이 아니라는소린데, 리스코프 치환원칙을 생각해보면 맞는말이다. List<String>은 List<Object>를 대체할 수 없다
 - 하지만 때론 불공변 방식보다 유연한 무언가가 필요할때가 있다
 - 아이템 29의 스택을 다시 생각해보면, 다음과 같이 일련의 원소를 스택에 넣는 메서드를 추가해야한다고 생각해보자
 
