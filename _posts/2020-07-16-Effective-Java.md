@@ -72,6 +72,8 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템62 : 다른타입이 적절하다면 문자열 사용을 피하라](https://yoowonyoung.github.io/posts/Effective-Java-62/)
 - [Effective Java - 아이템63 : 문자열 연결은 느리니 주의하라](https://yoowonyoung.github.io/posts/Effective-Java-63/)
 - [Effective Java - 아이템64 : 객체는 인터페이스를 사용해 참조하라](https://yoowonyoung.github.io/posts/Effective-Java-64/)
+- [Effective Java - 아이템65 : 리플렉션 보다는 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-65/)
+- [Effective Java - 아이템66 : 네이티브 메서드는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-66/)
 
 # Reference
 
