@@ -74,6 +74,9 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템64 : 객체는 인터페이스를 사용해 참조하라](https://yoowonyoung.github.io/posts/Effective-Java-64/)
 - [Effective Java - 아이템65 : 리플렉션 보다는 인터페이스를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-65/)
 - [Effective Java - 아이템66 : 네이티브 메서드는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-66/)
+- [Effective Java - 아이템67 : 최적화는 신중히 하라](https://yoowonyoung.github.io/posts/Effective-Java-67/)
+- [Effective Java - 아이템68 : 일반적으로 통용되는 명명 규칙을 따르라](https://yoowonyoung.github.io/posts/Effective-Java-68/)
+
 
 # Reference
 
