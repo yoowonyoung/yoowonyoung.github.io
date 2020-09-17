@@ -12,5 +12,6 @@ permalink: '/interview'
 - [Kakao coding test - 1](https://yoowonyoung.github.io/posts/Interview-02/)
 - [기술 면접 준비](https://yoowonyoung.github.io/posts/Interview-03/)
 - [프로젝트 정리](https://yoowonyoung.github.io/posts/Interview-04/)
+- [인성 면접 준비](https://yoowonyoung.github.io/posts/Interview-05/)
 
 

@@ -76,6 +76,8 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템66 : 네이티브 메서드는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-66/)
 - [Effective Java - 아이템67 : 최적화는 신중히 하라](https://yoowonyoung.github.io/posts/Effective-Java-67/)
 - [Effective Java - 아이템68 : 일반적으로 통용되는 명명 규칙을 따르라](https://yoowonyoung.github.io/posts/Effective-Java-68/)
+- [Effective Java - 아이템69 : 예외는 진짜 예외 상황에만 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-69/)
+- [Effective Java - 아이템70 : 복구할 수 있는 상황에서는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-70/)
 
 
 # Reference
