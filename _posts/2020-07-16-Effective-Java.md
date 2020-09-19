@@ -80,6 +80,13 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템70 : 복구할 수 있는 상황에서는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-70/)
 - [Effective Java - 아이템71 : 필요없는 검사 예외 사용은 피하라](https://yoowonyoung.github.io/posts/Effective-Java-71/)
 - [Effective Java - 아이템72 : 표준 예외를 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-72/)
+- [Effective Java - 아이템73 : 추상화 수준에 맞는 예외를 던져라](https://yoowonyoung.github.io/posts/Effective-Java-73/)
+- [Effective Java - 아이템74 : 메서드가 던지는 모든 예외를 문서화하라](https://yoowonyoung.github.io/posts/Effective-Java-74/)
+- [Effective Java - 아이템75 : 예외의 상세 메시지에 실패 관련 정보를 담으라](https://yoowonyoung.github.io/posts/Effective-Java-75/)
+- [Effective Java - 아이템76 : 가능한 한 실패 원자적으로 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-76/)
+- [Effective Java - 아이템77 : 예외를 무시하지 말라](https://yoowonyoung.github.io/posts/Effective-Java-77/)
+
+
 
 # Reference
 
