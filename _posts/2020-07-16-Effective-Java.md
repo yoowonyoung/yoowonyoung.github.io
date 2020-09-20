@@ -85,6 +85,9 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템75 : 예외의 상세 메시지에 실패 관련 정보를 담으라](https://yoowonyoung.github.io/posts/Effective-Java-75/)
 - [Effective Java - 아이템76 : 가능한 한 실패 원자적으로 만들어라](https://yoowonyoung.github.io/posts/Effective-Java-76/)
 - [Effective Java - 아이템77 : 예외를 무시하지 말라](https://yoowonyoung.github.io/posts/Effective-Java-77/)
+- [Effective Java - 아이템78 : 공유중인 가변 데이터는 동기화해 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-78/)
+- [Effective Java - 아이템79 : 과도한 동기화는 피하라](https://yoowonyoung.github.io/posts/Effective-Java-79/)
+- [Effective Java - 아이템80 : 스레드 보다는 실행자, 태스크, 스트림을 애용하라](https://yoowonyoung.github.io/posts/Effective-Java-80/)
 
 
 
