@@ -2,7 +2,7 @@
 layout: post
 title: "Effective Java - 아이템81: wait와 notify보다는 동시성 유틸리티를 애용해라"
 description: wait와 notify보다는 동시성 유틸리티를 애용해라
-date: 2020-09-20 22:59:00 +09:00
+date: 2020-09-21 22:59:00 +09:00
 categories: EffectiveJava Study
 ---
 

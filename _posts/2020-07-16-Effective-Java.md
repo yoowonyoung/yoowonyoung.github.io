@@ -89,6 +89,7 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템79 : 과도한 동기화는 피하라](https://yoowonyoung.github.io/posts/Effective-Java-79/)
 - [Effective Java - 아이템80 : 스레드 보다는 실행자, 태스크, 스트림을 애용하라](https://yoowonyoung.github.io/posts/Effective-Java-80/)
 - [Effective Java - 아이템81 : wait와 notify보다는 동시성 유틸리티를 애용해라](https://yoowonyoung.github.io/posts/Effective-Java-81/)
+- [Effective Java - 아이템82 : 스레드 안정성 수준을 문서화 해라](https://yoowonyoung.github.io/posts/Effective-Java-82/)
 
 
 

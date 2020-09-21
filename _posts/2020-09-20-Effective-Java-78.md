@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 예외
+# 동시성
 
 ## 아이템 78 : 공유중인 가변 데이터는 동기화해 사용하라
 

@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 예외
+# 동시성
 
 ## 아이템 80 : 스레드 보다는 실행자, 태스크, 스트림을 애용하라
 

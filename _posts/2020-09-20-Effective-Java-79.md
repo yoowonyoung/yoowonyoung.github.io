@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 예외
+# 동시성
 
 ## 아이템 79 : 과도한 동기화는 피하라
 
