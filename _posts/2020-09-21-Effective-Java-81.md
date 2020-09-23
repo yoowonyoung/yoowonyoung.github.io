@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 예외
+# 동시성
 
 ## 아이템 81 : wait와 notify보다는 동시성 유틸리티를 애용해라
 
