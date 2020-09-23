@@ -92,7 +92,8 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템82 : 스레드 안정성 수준을 문서화 해라](https://yoowonyoung.github.io/posts/Effective-Java-82/)
 - [Effective Java - 아이템83 : 지연 초기화는 신중히 사용하라](https://yoowonyoung.github.io/posts/Effective-Java-83/)
 - [Effective Java - 아이템84 : 프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://yoowonyoung.github.io/posts/Effective-Java-84/)
-
+- [Effective Java - 아이템85 : 자바 직렬화의 대안을 찾으라](https://yoowonyoung.github.io/posts/Effective-Java-85/)
+- [Effective Java - 아이템86 : Serializable을 구현 할지는 신중히 구현하라](https://yoowonyoung.github.io/posts/Effective-Java-86/)
 
 # Reference
 
