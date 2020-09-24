@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 동시성
+# 직렬화
 
 ## 아이템 85 : 자바 직렬화의 대안을 찾으라
 

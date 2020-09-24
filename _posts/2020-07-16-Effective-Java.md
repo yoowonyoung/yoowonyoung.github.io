@@ -94,6 +94,10 @@ permalink: '/EffectiveJava'
 - [Effective Java - 아이템84 : 프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://yoowonyoung.github.io/posts/Effective-Java-84/)
 - [Effective Java - 아이템85 : 자바 직렬화의 대안을 찾으라](https://yoowonyoung.github.io/posts/Effective-Java-85/)
 - [Effective Java - 아이템86 : Serializable을 구현 할지는 신중히 구현하라](https://yoowonyoung.github.io/posts/Effective-Java-86/)
+- [Effective Java - 아이템87 : 커스텀 직렬화 형태를 고려해보라](https://yoowonyoung.github.io/posts/Effective-Java-87/)
+- [Effective Java - 아이템88 : readObject는 방어적으로 작성하라](https://yoowonyoung.github.io/posts/Effective-Java-88/)
+- [Effective Java - 아이템89 : 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용해라](https://yoowonyoung.github.io/posts/Effective-Java-89/)
+- [Effective Java - 아이템90 : 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토해라](https://yoowonyoung.github.io/posts/Effective-Java-90/)
 
 # Reference
 

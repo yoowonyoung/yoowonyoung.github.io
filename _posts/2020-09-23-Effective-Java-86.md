@@ -7,7 +7,7 @@ categories: EffectiveJava Study
 ---
 
 
-# 동시성
+# 직렬화
 
 ## 아이템 86 : Serializable을 구현 할지는 신중히 구현하라
 
