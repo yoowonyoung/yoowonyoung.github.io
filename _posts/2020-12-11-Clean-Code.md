@@ -11,6 +11,8 @@ permalink: '/CleanCode'
 
 - [Clean Code - 2장 : 의미있는 이름](https://yoowonyoung.github.io/posts/Clean-Code-01/)
 - [Clean Code - 3장 : 함수](https://yoowonyoung.github.io/posts/Clean-Code-02/)
+- [Clean Code - 4장 : 주석](https://yoowonyoung.github.io/posts/Clean-Code-03/)
+
 
 # Reference
 
