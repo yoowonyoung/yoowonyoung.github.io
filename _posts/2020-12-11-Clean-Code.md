@@ -19,6 +19,7 @@ permalink: '/CleanCode'
 - [Clean Code - 9장 : 단위 테스트](https://yoowonyoung.github.io/posts/Clean-Code-08/)
 - [Clean Code - 10장 : 클래스](https://yoowonyoung.github.io/posts/Clean-Code-09/)
 - [Clean Code - 11장 : 시스템](https://yoowonyoung.github.io/posts/Clean-Code-10/)
+- [Clean Code - 12장 : 창발성](https://yoowonyoung.github.io/posts/Clean-Code-11/)
 
 
 # Reference
