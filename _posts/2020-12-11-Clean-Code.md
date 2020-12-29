@@ -21,6 +21,7 @@ permalink: '/CleanCode'
 - [Clean Code - 11장 : 시스템](https://yoowonyoung.github.io/posts/Clean-Code-10/)
 - [Clean Code - 12장 : 창발성](https://yoowonyoung.github.io/posts/Clean-Code-11/)
 - [Clean Code - 13장 : 동시성](https://yoowonyoung.github.io/posts/Clean-Code-12/)
+- [Clean Code - 17장 : 냄새와 휴리스틱](https://yoowonyoung.github.io/posts/Clean-Code-13/)
 
 
 # Reference
