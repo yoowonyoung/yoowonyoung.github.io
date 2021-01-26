@@ -140,6 +140,7 @@ permalink: '/Kubernetes'
     - 사람이 하는거기때문에 실수가 있을수 있으니까 이제 이런거는 하지 말자~
 - 이제는 디플로이먼트를 위해 롤링 업데이트가 가능함
 - 업데이트 전략은 롤링이 기본이고, 옵션으로 Re Create가 가능하긴 함
+- UnDo, ReDo 가능하긴 한데 History에서 사라지는게 아니라 History내에서 위치가 바뀌고 그럼
 - maxSurge: 최대 몇개까지 팟을 만들것인지
 - masUnavailable: 최소 몇개까지는 팟을 운영할것인지
 
