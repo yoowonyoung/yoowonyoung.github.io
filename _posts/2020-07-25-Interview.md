@@ -13,5 +13,5 @@ permalink: '/interview'
 - [기술 면접 준비](https://yoowonyoung.github.io/posts/Interview-03/)
 - [프로젝트 정리](https://yoowonyoung.github.io/posts/Interview-04/)
 - [인성 면접 준비](https://yoowonyoung.github.io/posts/Interview-05/)
-- [Naver coding test](https://yoowonyoung.github.io/posts/Interview-06/)
+- [리트코드 Medium 문제풀이](https://yoowonyoung.github.io/posts/Interview-07/)
 
