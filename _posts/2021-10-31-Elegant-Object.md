@@ -9,3 +9,4 @@ permalink: '/ElegantObject'
 
 # Elegant Object Posts
 - [Elegant Object - 1장 : 출생](https://yoowonyoung.github.io/posts/Elegant-Object-01/)
+- [Elegant Object - 2장 : 학습](https://yoowonyoung.github.io/posts/Elegant-Object-02/)
