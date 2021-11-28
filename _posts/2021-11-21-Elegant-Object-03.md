@@ -194,3 +194,150 @@ class AnyFile implements Mask {
 - 첫번째는 Null을 체그하고 예외를 던지는 것임
 - 두번째는 Null을 무시하는 것인데, 인자가 Null이 아니라고 가정하고 어떤 대비도 하지 않음으로써 NPE가 던져지고 메서드 호출자가 자신이 실수 했다는 사실을 인지하게 하는것임
 - 중요하지 않은 Null 확인 로직으로 코드를 오염시켜서는 안되며, NPE는 잘못된 위치에 Null이 전달 되었다는 사실을 알려주는 올바른 지표임
+
+## 충성스러우면서 불변이거나, 아니면 상수 이거나
+- 불변 객체만으로 세상을 모델링할 수 없는것은 아님. 상태와 데이터에 관해서 오해하고 있기 때문에 혼란이 발생 하는것
+
+```java
+class WebPage {
+    private final URI uri;
+
+    WebPage(URI path) {
+        this.uri = path;
+    }
+
+    public String content() {
+        //Logic
+    }
+}
+```
+
+- WebPage는 불변임. content()가 호출 될 때마다 서로 다른 값이 반환되더라도 이 객체는 불변임
+- 직관적으로 사람들은 불변 객체의 메서드를 호출 할 때마다 상수처럼 매번 동일한 데이터가 반환되리라 생각하지만 이는 잘못된 생각임
+- 객체란 실제 엔티티의 대표자로, 모든 객체는 식별자, 상태, 행동을 포함함. 불변객체와 가변객체의 차이가 불변 객체에는 식별자가 존재하지 않으며 절대로 상태를 변경할 수 없다는것. 불변 객체의 식별자는 객체의 상태와 완전히 동일
+- 가변 객체의 상태는 변경 가능하기 떄문에 상태에 독립적인 식별자를 별도로 포함해야 함
+- 불변 객체는 실제 객체가 어디에 존재하고 어떤 방식으로 사용해야 하는지를 알고있음. 불변 객체는 좌표를 알고있고 이 좌표가 바로 상태임. 불변 객체는 자신이 대표하는 실세계의 엔티티에 충성함. 즉, 엔티티의 좌표를 절대 변경하지 않음
+- 객체가 대표하는 실제 엔티티와 객체의 상태가 동일한 경우가 바로 상수임. 상수 객체는 불변 객체의 특별한 경우임
+- 상수 객체가 설계, 유지보수, 이해하기 쉽기 때문에 불변 객체보다는 상수 객체를 쓰는것이 더 나음
+
+## 절대 getter/setter를 사용하지 마라
+
+```c++
+struct Cash {
+    int dollars;
+}
+
+class Cash {
+    public:
+        Cash(int v): dollars(v) {};
+        std::string print() const;
+    private:
+        int dollars;
+}
+
+printf("Cash value is %d", cash.dollars);
+printf("Cash value is %s", cash.print());
+```
+
+- 자료구조인 struct의 경우 멤버인 dollars에 직접 접근한 후 해당 값을 정수로 취급함. struct를 가지고는 어떤 일도 하지 않으며, struct와는 어떤 의사소통도 하지않고 직접적으로 멤버에 접근함. struct는 어떤 개성도 지니지 않은 데이터 가방일 뿐임
+- 클래스는 다른데, 클래스는 어떤식으로든 멤버에게 접근하는것을 허용하지 않으며, 자신의 멤버를 노출하지도 않음. 우리가 할수있는것이라곤 객체에게 자신을 print하라고 요청하는것일 뿐인데, print가 어떤 방식으로 동작하는지도 알 수 없음. 이게 캡슐화임
+- 자료구조는 투명하고, 수동적이고 죽어있지만, 객체는 불투명하고 능동적이고 살아있음
+- 객체지향적이고 선언형 스타일을 유지하기 위해서는 데이터를 객체 안에 감추고 절대로 외부에 노출해서는 안됨. 정확하게 무엇을 캡슐화 하고있고, 자료구조가 얼마나 복잡한지는 오직 객체만이 알고 있어야함. 이런 의미에서 getter/setter는 캡슐화 원칙을 위반하기 위해서 걸계됨
+- getter/setter는 겉으로 보기엔 메서드 처럼 보이지만, 실제로는 우리가 데이터에 직접 접근하고 있다는 불쾌한 현실을 가리고 있을 뿐. 데이터는 무방비로 노출되어있는것과 같음
+- getter/setter 안티패턴에서 유해한 부분이 접두사인 get/set임. 이 객체가 자료구조라는 사실을 명확하게 전달함
+
+```java
+class Cash {
+    private final int value;
+    public int dollars() {
+        return this.value;
+    }
+}
+
+class Cash {
+    private final int value;
+    public int getDollars() {
+        return this.value;
+    }
+}
+```
+
+- 어떤 데이터를 반환하는 메서드를 포함하는것은 괜찮지만, 그 메서드의 이름을 get~ 으로 짓는것은 적절치 않음
+- getDollars는 "데이터 중에 dollars를 찾고 반환하라"고 이야기 하는것이고, dollars는 "얼마나 많은 달러가 필요한가?"fkrh anesmsrjtdla
+- dollars는 데이터를 노출하지 않지만, getDollars는 데이터를 노출함
+
+### 부 생성자 밖에서는 new를 사용하지 마라
+
+```java
+class Cash {
+    private final int dollars;
+
+    public int euro() {
+        return new Exchange().rate("USD","EUR") * this.dollars;
+    }
+}
+``` 
+
+- 위의 예제는 의존성에 문제가 있는 코드의 전형적 모습임. euro메서드 안에서 new 연산자를 통해 Exchange 인스턴스를 생성 하는데, 이것이 하드 코딩된 의존성임. Cash 클래스가 Exchange에 직접 연결되어 있어, 의존성을 끊기 위해서는 Cash 클래스의 내부 코드를 변경하는수밖에 없음
+- 이 예제에서 Cash가 Exchange의 인스턴스를 직접 생성하고 이것이 바로 문제임
+
+```java
+class Cash {
+    private final int dollars;
+    private final Exchange exchange;
+
+    Cash(int value, Exchange exch) {
+        this.dollars = value;
+        this.exchange = exch;
+    }
+
+    public int euro() {
+        return this.exchange.rate("USD","EUR") * this.dollars;
+    }
+}
+```
+
+- Cash 클래스는 더이상 Exchange 인스턴스를 직접 생성할 수 없고, 오직 생성자를 통해 제공된 Exchange와만 협력할 수 있음. Cash 클래스는 더이상 Exchange에 의존하지 않음. 의존성을 제어하는 주체가 Cash가 아닌 우리 자신임
+- 객체가 필요한 의존성을 직접 생성하는 대신, 우리가 생성자를 통해 직접 의존성을 주입함. 이것이 의존성 주입(Dependency Injection)임. 의존성을 주입하는것은 매우 좋은 프랙티스로, 필요한 의존성 전체를 생성자를 통해 전달받기 때문에 Cash의 설계는 매우 훌륭함. 편의를 위해 여러 부 생성자를 추가할수도 있음
+- 어떤 객체라도 훌륭하게 설계할 수 있는 간단한 규칙 하나가 바로 부 생성자를 제외한 어떤곳에서도 new를 허용하지 않는것임
+- 이 규칙이 의존성 주입과 제어 역전에 관해 알아야 하는 전부라고 생각함. 부 생성자에서만 new를 사용해야한다는 규칙과 불변 객체를 조합하면 코드는 깔끔해지고 언제든지 의존성을 주입할 수 있게됨
+
+## 인트로스팩션과 캐스팅을 피하라
+- 타입 인트로스팩션과 캐스팅을 사용하고 싶은 유혹에 빠지더라도 절대 사용해서는 안됨. instanceof 연산자와 Class.cast()메서드도 포함됨
+- 타입 인트로스팩션은 리플렉션이라고 불리는 여러 기법중 하나인데, 리플랙션은 매우 강력하지만 코드를 유지보수하기 어렵게 만드는 매우 너저분한 기법임
+
+```java
+public <T> int size(Iterable<T> items) {
+    if(items instanceof Collection) {
+        return Collection.class.cast(item).size();
+    }
+
+    int size = 0;
+    for(T item : items) {
+        ++size;
+    }
+    return size;
+}
+```
+
+- 위 코드는 타입에 따라 객체를 차별하기 때문에 OOP의 기본 사상을 심각하게 훼손시킴. 객체를 차별하지말고 누구건 상관없이 자신의 일을 할 수 있도록 해야 함
+- 런타임에 객체의 타입을 조사하는것은 클래스 사이의 결합도도 높아지기 때문에 기술적 관점에서도 좋지 않음. 또 메서드를 효과적으로 사용하기 위해서는 메서드 내부 동작을 이해할 필요가 있다는 문제가 있음
+
+
+```java
+public <T> int size(Collection<T> items) {
+    return items.size();
+}
+
+public <T> int size(Iterable<T> items) {
+    int size = 0;
+    for (T item : items) {
+        ++size;
+    }
+    return size;
+}
+```
+
+- 위와 같이 메서드 오버로딩을 하면 더 나은 설계로 만들 수 있음
+- 사전에 약속하지 않았던 새로운 계약을 따르도록 강제하는 클래스 캐스팅에도 동일하게 적용됨
+- instanceof 연산자를 사용하거나 클래스를 캐스팅 하는일은 안티패턴이기 떄문에 사용해서는 안됨
