@@ -266,7 +266,7 @@ class Cash {
 - getDollars는 "데이터 중에 dollars를 찾고 반환하라"고 이야기 하는것이고, dollars는 "얼마나 많은 달러가 필요한가?"fkrh anesmsrjtdla
 - dollars는 데이터를 노출하지 않지만, getDollars는 데이터를 노출함
 
-### 부 생성자 밖에서는 new를 사용하지 마라
+## 부 생성자 밖에서는 new를 사용하지 마라
 
 ```java
 class Cash {
