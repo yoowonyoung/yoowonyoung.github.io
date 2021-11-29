@@ -11,3 +11,4 @@ permalink: '/ElegantObject'
 - [Elegant Object - 1장 : 출생](https://yoowonyoung.github.io/posts/Elegant-Object-01/)
 - [Elegant Object - 2장 : 학습](https://yoowonyoung.github.io/posts/Elegant-Object-02/)
 - [Elegant Object - 3장 : 취업](https://yoowonyoung.github.io/posts/Elegant-Object-03/)
+- [Elegant Object - 4장 : 은퇴](https://yoowonyoung.github.io/posts/Elegant-Object-04/)
