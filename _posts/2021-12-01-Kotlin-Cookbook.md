@@ -8,4 +8,4 @@ permalink: '/KotlinCookbook'
 ---
 
 # Kotlin Cookbook Posts
-- [Kotlin Cookbook - 2장 : 코틀린 기초](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-01/)
+- [Kotlin Cookbook - 1 & 2장 : 코틀린 설치와 실행 & 코틀린 기초](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-01/)
