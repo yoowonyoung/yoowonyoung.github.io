@@ -43,7 +43,7 @@ if(p.middle != null) {
 
 - Null Safe의 예시. Nullable 변수를 식에서 사용하려고 할 때, 위와 깉이 p가 val로 선언되어 있고, null이 아님을 확인 했다면 String? 타입 대신 String 타입으로 스마트 캐스트가 일어남
 
-```kt
+```kotlin
 var p = Person(first = "North", middle = null, last = "West")
 if(p.middle != null) {
     val middleNameLength = p.middle!!.length
@@ -54,14 +54,14 @@ if(p.middle != null) {
 - 이를 회피하기 위해 널 아님 단언 연산자(!!)를 사용할수도 있는데, 이것은 나쁜 코드 냄새. 이로 인해 코틀린에서 NPE를 만날수도 있음
 - 이런 상황에서는 안전 호출 연산자(?.)를 사용하는게 좋음. 안전 호출은 값이 널이면 null을 돌려줌
 
-```kt
+```kotlin
 var p = Person(fist = "North", middle = null, last = "West")
 val middleNameLength = p.middle?.length//Int?
 ```
 
 - 이때 안전 호출 연산자만 쓰면 반환값이 nullable이므로, 엘비스 연산자(?:)를 병행해서 사용하는게 좋다
 
-```kt
+```kotlin
 var p = Person(fist = "North", middle = null, last = "West")
 val middleNameLength = p.middle?.length ?: 0//Int
 ```
@@ -81,7 +81,7 @@ val middleNameLength = p.middle?.length ?: 0//Int
 ### 설명
 - 코틀린의 주요 기능중 하나는 컴파일 타임에 타입 시스템에 널 허용상을 강제 하는것. String 타입으로 변수를 선언하면 절대 널이 될 수 없음
 
-```kt
+```kotlin
 tasks.withType<KotlinCompile> {
     kotlinOptions {
         jvmTarget = "1.8"
@@ -102,7 +102,7 @@ tasks.withType<KotlinCompile> {
 
 ### 설명
 
-```kt
+```kotlin
 fun addProduct(name: String, price: Double = 0.0, desc: String? = null) =
     "Adding product wuth $name, ${desc ?: "None" }, and " +
         NumberFormat.getCurrencyInstance().format(price)
@@ -145,7 +145,7 @@ public static final String addProduct(@NotNull String name) {
 - 생성된 클래스에는 제공된 인자와 함께 모든 인자를 요구하는 addProduct메서드를 호출하는 메서드가 추가되어있다
 - 생성자도 동일하게 중복이 가능하지만 명시적으로 constructor 키워드를 사용해야 한다
 
-```kt
+```kotlin
 data class Product @JvmOverloads constructor(
     val name: String,
     val price: Double = 0.0,
@@ -173,7 +173,7 @@ long myLong = myInt;
 - 위 코드는 자바에서는 지극히 정상적인 코드이지만 코틀린에서는 아니다
 - 코틀린은 기본 타입을 직접적으로 제공하지 않는다. 개잘자가 코드를 작성할떄는 기본 타입이 아닌 클래스를 다룬다는 사실을 명심해야 한다
 
-```kt
+```kotlin
 val intVar: Int = 3
 val longVar: Long = intVar.toLong()
 ```
@@ -190,7 +190,7 @@ val longVar: Long = intVar.toLong()
 
 - 다행이도 코틀린은 타입 변환을 투명하게 수행하는 연산자 중복 장점이 있어서, 다음 코드는 명시적 타입 변환이 필요하지 않다
 
-```kt
+```kotlin
 val longSum = 3L + intVar
 ```
 
@@ -205,7 +205,7 @@ val longSum = 3L + intVar
 ### 설명
 - 코틀린에서는 자바의 정적 메소드를 사용해서 Byte와 Short, Int, Long에 확장함수 ```toString(radix: Int)```가 만들어져 있다
 
-```kt
+```kotlin
 42.toString(2) == "101010"
 ```
 
@@ -222,7 +222,7 @@ val longSum = 3L + intVar
 - 코틀린에서는 기본 타입이 없기기때문에 Int같은 클래스 인스턴스가 자동으로 Long이나 Double으로 승격되지 않기 떄문에, Float와 Double에만 확장함수 pow가 있고, Int나 Long에는 없다
 - 따라서 다음과 같이 Int와 Long에 확장함수를 정의 하거나, infix를 이용해서 정의해야 한다
 
-```kt
+```kotlin
 fun Int.pow(x: Int) = toDouble().pow(x).toInt()
 fun Long.pow(x: Long) = toDouble().pow(x).toLong()
 
@@ -269,20 +269,20 @@ infix fun Long.`**`(x: Long) = toDouble().pow(x).toLong()
 - 코틀린은 Pair 인스턴스의 리스트로부터 맵을 생성하는 mapOf와 같은 맵 생성을 위한 최상위 함수 몇가지를 제공한다
 - Pair는 first와 second라는 이름의 두개의 원소를 갖는 데이터 클래스다
 
-```kt
+```kotlin
 data class Pari<out A, out B>: Serializable
 ```
 
 - Pair클래스의 first와 second는 A와 B의 제너릭 값으로, 2개의 인자를 받는 생성자를 사용해 Pair 클래스를 생성할 수 있지만, to함수를 사용하는것이 더 일반적이다
 
-```kt
+```kotlin
 public infix fun <A,B> A.to(that: B): Pair<A,B> = Pair(this, that)
 ```
 
 - to함수는 제너릭 인자 B와 함께 모든 제너릭 타입 A에 추가된 확장함수이고, 이 확장함수는 A와 B를 위해 제공된 값을 결합한 Pair 인스턴스를 돌려준다
 - Pair는 데이터 클래스로 개별 원소에 접근하려면 구조 분해를 통해서 접근해야 한다
 
-```kt
+```kotlin
 val pair = "a" to 1
 val (x,y) = pair
 
