@@ -12,3 +12,5 @@ permalink: '/CleanArchitecture'
 - [Clean Architecture 2장 - 의존성 역전하기](https://yoowonyoung.github.io/posts/Clean-Architecture-02/)
 - [Clean Architecture 3장 - 코드 구성하기](https://yoowonyoung.github.io/posts/Clean-Architecture-03/)
 - [Clean Architecture 4장 - 유스케이스 구현하기](https://yoowonyoung.github.io/posts/Clean-Architecture-04/)
+- [Clean Architecture 5장 - 웹 어댑터 구현하기](https://yoowonyoung.github.io/posts/Clean-Architecture-05/)
+- [Clean Architecture 6장 - 영속성 어댑터 구현하기](https://yoowonyoung.github.io/posts/Clean-Architecture-06/)
