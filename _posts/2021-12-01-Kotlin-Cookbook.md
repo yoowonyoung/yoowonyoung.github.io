@@ -13,3 +13,4 @@ permalink: '/KotlinCookbook'
 - [Kotlin Cookbook - 4장 : 함수형 프로그래밍](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-03/)
 - [Kotlin Cookbook - 5장 : 컬렉션](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-04/)
 - [Kotlin Cookbook - 6장 : 시퀀스](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-05/)
+- [Kotlin Cookbook - 7장 : 영역함수](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-06/)
