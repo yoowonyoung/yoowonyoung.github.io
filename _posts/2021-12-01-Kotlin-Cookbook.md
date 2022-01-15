@@ -15,3 +15,6 @@ permalink: '/KotlinCookbook'
 - [Kotlin Cookbook - 6장 : 시퀀스](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-05/)
 - [Kotlin Cookbook - 7장 : 영역함수](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-06/)
 - [Kotlin Cookbook - 8장 : 영역함수](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-07/)
+- [Kotlin Cookbook - 9장 : 테스트](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-08/)
+- [Kotlin Cookbook - 10장 : 입력/출력](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-09/)
+- [Kotlin Cookbook - 11장 : 그 밖의 코틀린 기능](https://yoowonyoung.github.io/posts/Kotlin-Cookbook-10/)
