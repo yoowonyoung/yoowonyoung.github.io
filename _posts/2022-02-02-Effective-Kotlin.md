@@ -13,3 +13,5 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템3 : 최대한 플랫폼 타입을 사용하지 말라](https://yoowonyoung.github.io/posts/Effective-Kotlin-03/)
 - [Effective Kotlin - 아이템4 : inferred 타입으로 리턴하지 말라](https://yoowonyoung.github.io/posts/Effective-Kotlin-04/)
 - [Effective Kotlin - 아이템5 : 예외를 활용해 코드에 제한을 걸어라](https://yoowonyoung.github.io/posts/Effective-Kotlin-05/)
+- [Effective Kotlin - 아이템6 : 사용자 정의 오류 보다는 표준 오류를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-06/)
+- [Effective Kotlin - 아이템7 : 결과 부족이 발생할 경우 null과 Failure를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-07/)
