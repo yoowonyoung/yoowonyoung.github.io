@@ -16,3 +16,6 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템6 : 사용자 정의 오류 보다는 표준 오류를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-06/)
 - [Effective Kotlin - 아이템7 : 결과 부족이 발생할 경우 null과 Failure를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-07/)
 - [Effective Kotlin - 아이템8 : 적절하게 null을 처리 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-08/)
+- [Effective Kotlin - 아이템9 : 사용자 정의 오류 보다는 표준 오류를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-09/)
+- [Effective Kotlin - 아이템10 : 결과 부족이 발생할 경우 null과 Failure를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-10/)
+- [Effective Kotlin - 아이템11 : 적절하게 null을 처리 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-11/)
