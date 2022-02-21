@@ -29,3 +29,4 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템19 : knowledge를 반복하여 사용하지 말라](https://yoowonyoung.github.io/posts/Effective-Kotlin-19/)
 - [Effective Kotlin - 아이템20 : 일반적인 알고리즘을 반복해서 구현하지 말라](https://yoowonyoung.github.io/posts/Effective-Kotlin-20/)
 - [Effective Kotlin - 아이템21 : 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라](https://yoowonyoung.github.io/posts/Effective-Kotlin-21/)
+- [Effective Kotlin - 아이템22 : 일반적인 알고리즘을 구현할 때 제너릭을 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-22/)
