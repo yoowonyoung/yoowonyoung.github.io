@@ -30,4 +30,5 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템20 : 일반적인 알고리즘을 반복해서 구현하지 말라](https://yoowonyoung.github.io/posts/Effective-Kotlin-20/)
 - [Effective Kotlin - 아이템21 : 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라](https://yoowonyoung.github.io/posts/Effective-Kotlin-21/)
 - [Effective Kotlin - 아이템22 : 일반적인 알고리즘을 구현할 때 제너릭을 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-22/)
-- [Effective Kotlin - 아이템22 : 타입 파라미터의 섀도잉을 피하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-23/)
+- [Effective Kotlin - 아이템23 : 타입 파라미터의 섀도잉을 피하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-23/)
+- [Effective Kotlin - 아이템24 : 제너릭 타입과 variance 한정자를 활용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-24/)
