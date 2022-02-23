@@ -40,7 +40,7 @@ fun main(args: Array<String>) {
 ### 함수 타입
 - 함수 타입은 파라미터 유형과 리턴 타이벵 따라서 서로 어떤 관계를 가짐
 
-```fun
+```kotlin
 fun printProcessedNumber(transition: (Int) -> Any) {
     print(transition(42))
 }
