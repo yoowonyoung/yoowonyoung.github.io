@@ -32,3 +32,5 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템22 : 일반적인 알고리즘을 구현할 때 제너릭을 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-22/)
 - [Effective Kotlin - 아이템23 : 타입 파라미터의 섀도잉을 피하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-23/)
 - [Effective Kotlin - 아이템24 : 제너릭 타입과 variance 한정자를 활용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-24/)
+- [Effective Kotlin - 아이템25 : 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-25/)
+- [Effective Kotlin - 아이템26 : 함수 내부의 추상화 레벨을 통일하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-26/)
