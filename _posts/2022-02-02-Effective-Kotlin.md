@@ -40,3 +40,5 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템30 : 요소의 가시성을 최소화 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-30/)
 - [Effective Kotlin - 아이템31 : 문서로 규약을 정의하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-31/)
 - [Effective Kotlin - 아이템32 : 추상화 규약을 지켜라](https://yoowonyoung.github.io/posts/Effective-Kotlin-32/)
+- [Effective Kotlin - 아이템33 : 생성자 대신 팩토리 함수를 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-33/)
+
