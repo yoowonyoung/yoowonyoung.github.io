@@ -71,7 +71,7 @@ val list = MyLinkedList.of(1,2)
 
 - Companion 객체는 더 많은 기능을 가지고 있음. 예를 들어 companion 객체는 인터페이스를 구현할 수있으며 클래스를 상속 받을 수도 있고, 추상 companion 객체 팩토리는 값을 가질 수 있음. 이를 이용해서 캐싱이나 테스트용 가짜 객체 생성도 가능함
 
-```kotlon
+```kotlin
 abstract class ActivityFactory {
     abstract fun getInstance(context: Context): Intent
 
