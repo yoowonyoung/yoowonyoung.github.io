@@ -2,7 +2,7 @@
 layout: post
 title: "Effective Kotlin - 아이템34: 기본 생성자에 이름 있는 옵션 아규먼트를 사용하라"
 description: 기본 생성자에 이름 있는 옵션 아규먼트를 사용하라
-date: 2022-03-04 22:05:00 +09:00
+date: 2022-03-01 22:05:00 +09:00
 categories: EffectiveKotlin Study
 ---
 
