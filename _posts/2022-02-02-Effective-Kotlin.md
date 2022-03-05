@@ -42,4 +42,5 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템32 : 추상화 규약을 지켜라](https://yoowonyoung.github.io/posts/Effective-Kotlin-32/)
 - [Effective Kotlin - 아이템33 : 생성자 대신 팩토리 함수를 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-33/)
 - [Effective Kotlin - 아이템34 : 기본 생성자에 이름 있는 옵션 아규먼트를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-34/)
+- [Effective Kotlin - 아이템35 : 복합 객체를 생성하기 위한 DSL을 정의 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-35/)
 
