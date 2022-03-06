@@ -43,4 +43,6 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템33 : 생성자 대신 팩토리 함수를 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-33/)
 - [Effective Kotlin - 아이템34 : 기본 생성자에 이름 있는 옵션 아규먼트를 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-34/)
 - [Effective Kotlin - 아이템35 : 복합 객체를 생성하기 위한 DSL을 정의 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-35/)
+- [Effective Kotlin - 아이템36 : 상속보다는 컴포지션을 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-36/)
+- [Effective Kotlin - 아이템37 : 데이터 집합 표현에 data 한정자를 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-37/)
 
