@@ -48,4 +48,8 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템38 : 연산 또는 액션을 전달할 떄는 인터페이스 대신 함수 타입을 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-38/)
 - [Effective Kotlin - 아이템39 : 태그 클래스보다는 클래스 계층을 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-39/)
 - [Effective Kotlin - 아이템40 : equals의 규약을 지켜라](https://yoowonyoung.github.io/posts/Effective-Kotlin-40/)
+- [Effective Kotlin - 아이템41 : hashCode의 규약을 지켜라](https://yoowonyoung.github.io/posts/Effective-Kotlin-41/)
+- [Effective Kotlin - 아이템42 : compareTo의 규약을 지켜라](https://yoowonyoung.github.io/posts/Effective-Kotlin-42/)
+- [Effective Kotlin - 아이템43 : API의 필수적이지 않는 부분을 확장함수로 추출하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-43/)
+- [Effective Kotlin - 아이템44 : 멤버 확장 함수의 사용을 피하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-44/)
 
