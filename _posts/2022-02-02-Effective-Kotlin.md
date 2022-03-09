@@ -45,4 +45,5 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템35 : 복합 객체를 생성하기 위한 DSL을 정의 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-35/)
 - [Effective Kotlin - 아이템36 : 상속보다는 컴포지션을 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-36/)
 - [Effective Kotlin - 아이템37 : 데이터 집합 표현에 data 한정자를 사용하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-37/)
+- [Effective Kotlin - 아이템38 : 연산 또는 액션을 전달할 떄는 인터페이스 대신 함수 타입을 사용 하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-38/)
 
