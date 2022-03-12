@@ -52,4 +52,5 @@ permalink: '/EffectiveKotlin'
 - [Effective Kotlin - 아이템42 : compareTo의 규약을 지켜라](https://yoowonyoung.github.io/posts/Effective-Kotlin-42/)
 - [Effective Kotlin - 아이템43 : API의 필수적이지 않는 부분을 확장함수로 추출하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-43/)
 - [Effective Kotlin - 아이템44 : 멤버 확장 함수의 사용을 피하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-44/)
-
+- [Effective Kotlin - 아이템45 : 불필요한 객체 생성을 피하라](https://yoowonyoung.github.io/posts/Effective-Kotlin-45/)
+- [Effective Kotlin - 아이템46 : 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라](https://yoowonyoung.github.io/posts/Effective-Kotlin-46/)
